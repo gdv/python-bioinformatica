@@ -1,0 +1,1112 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs
+HGNC:55	ABCC4	ATP binding cassette subfamily C member 4	Approved		MRP4, EST170205, MOAT-B, MOATB	13q32.1	U66682	NM_005845
+HGNC:20293	ABHD13	abhydrolase domain containing 13	Approved	C13orf6	bA153I24.2, FLJ14906, BEM46L1	13q33.3	AK027812	NM_032859
+HGNC:33904	ACOD1	aconitate decarboxylase 1	Approved	IRG1	CAD	13q22.3		NM_001258406
+HGNC:21303	ADPRHL1	ADP-ribosylhydrolase like 1	Approved		ARH2	13q34	AJ313429	NM_138430
+HGNC:369	AKAP11	A-kinase anchoring protein 11	Approved		KIAA0629, AKAP220, PRKA11, FLJ11304, DKFZp781I12161, PPP1R44	13q14.11	AB014529	NM_016248
+HGNC:423	AKR1B1P4	aldo-keto reductase family 1 member B1 pseudogene 4	Approved	ALDRL4		13q14.13		NG_006989
+HGNC:20266	ALG5	ALG5, dolichyl-phosphate beta-glucosyltransferase	Approved		bA421P11.2	13q13.3	AF088028	NM_013338
+HGNC:32456	ALG11	ALG11, alpha-1,2-mannosyltransferase	Approved		KIAA0266, CDG1P	13q14.3	AK025456	NM_001004127
+HGNC:436	ALOX5AP	arachidonate 5-lipoxygenase activating protein	Approved		FLAP	13q12.3	AH001462	NM_001629
+HGNC:26360	AMER2	APC membrane recruitment protein 2	Approved	FAM123A	FLJ25477	13q12.13	AK055049	NM_152704
+HGNC:39809	AMMECR1LP1	AMMECR1 like pseudogene 1	Approved			13q32.1		
+HGNC:20265	ANKRD10	ankyrin repeat domain 10	Approved		FLJ20093	13q34	AK000100	
+HGNC:39891	ANKRD10-IT1	ANKRD10 intronic transcript 1	Approved			13q34		
+HGNC:42023	ANKRD20A9P	ankyrin repeat domain 20 family member A9, pseudogene	Approved			13q11		
+HGNC:39707	ANKRD20A10P	ankyrin repeat domain 20 family member A10, pseudogene	Approved	ANKRD20A4P1		13q12.12		
+HGNC:42737	ANKRD20A19P	ankyrin repeat domain 20 family member A19, pseudogene	Approved			13q12.12		
+HGNC:39687	ANKRD26P2	ankyrin repeat domain 26 pseudogene 2	Approved			13q13.3		NG_006568
+HGNC:39689	ANKRD26P3	ankyrin repeat domain 26 pseudogene 3	Approved	LINC00414		13q12.11		
+HGNC:39690	ANKRD26P4	ankyrin repeat domain 26 pseudogene 4	Approved			13q12.3		
+HGNC:32380	ARF4P3	ADP ribosylation factor 4 pseudogene 3	Approved			13q32.3		XM_372496
+HGNC:37628	ARF4P4	ADP ribosylation factor 4 pseudogene 4	Approved			13q31.1		
+HGNC:25482	ARGLU1	arginine and glutamate rich 1	Approved		FLJ10154	13q33.3	BC071587	NM_018011
+HGNC:15607	ARHGEF7	Rho guanine nucleotide exchange factor 7	Approved		KIAA0142, PIXB, DKFZp761K1021, Nbla10314, DKFZp686C12170, BETA-PIX, COOL1, P85SPR, P85, P85COOL1, P50BP, PAK3, P50	13q34	D63476	NM_001113511
+HGNC:39816	ARHGEF7-AS1	ARHGEF7 antisense RNA 1	Approved			13q34		
+HGNC:40717	ARHGEF7-AS2	ARHGEF7 antisense RNA 2	Approved			13q34		
+HGNC:41408	ARHGEF7-IT1	ARHGEF7 intronic transcript 1	Approved			13q34		
+HGNC:39447	ARL2BPP3	ADP ribosylation factor like GTPase 2 binding protein pseudogene 3	Approved			13q13.3		NG_022943
+HGNC:24046	ARL11	ADP ribosylation factor like GTPase 11	Approved		ARLTS1, FLJ33930	13q14.2	AF441378	NM_138450
+HGNC:39399	ASNSP3	asparagine synthetase pseudogene 3	Approved			13q32.3		NG_021205
+HGNC:820	ATP4B	ATPase H+/K+ transporting beta subunit	Approved		ATP6B	13q34		NM_000705
+HGNC:34026	ATP5EP2	ATP synthase, H+ transporting, mitochondrial F1 complex, epsilon subunit pseudogene 2	Approved			13q12.2	EC567419	NR_002162
+HGNC:39742	ATP5F1P1	ATP synthase, H+ transporting, mitochondrial Fo complex subunit B1 pseudogene 1	Approved			13q14.3		
+HGNC:39508	ATP5G1P5	ATP synthase, H+ transporting, mitochondrial Fo complex subunit C1 (subunit 9) pseudogene 5	Approved			13q33.3		
+HGNC:39852	ATP6V1G1P7	ATPase H+ transporting V1 subunit G1 pseudogene 7	Approved			13q33.1		
+HGNC:870	ATP7B	ATPase copper transporting beta	Approved	WND		13q14.3	U11700	NM_000053
+HGNC:13533	ATP8A2	ATPase phospholipid transporting 8A2	Approved		ATPIB, ML-1	13q12.13	AL137256	NM_016529
+HGNC:39663	ATP8A2P2	ATPase phospholipid transporting 8A2 pseudogene 2	Approved			13q13.1		NG_028886
+HGNC:42641	ATP8A2P3	ATPase phospholipid transporting 8A2 pseudogene 3	Approved			13q12.13		
+HGNC:13552	ATP11A	ATPase phospholipid transporting 11A	Approved		ATPIH, ATPIS, KIAA1021	13q34	AB028944	NM_015205
+HGNC:40645	ATP11A-AS1	ATP11A antisense RNA 1	Approved			13q34		
+HGNC:33793	ATP11AUN	ATP11A upstream neighbor	Approved	C13orf35	FLJ26443, SMABLO1	13q34	AK129953	NM_207440
+HGNC:13816	ATP12A	ATPase H+/K+ transporting non-gastric alpha2 subunit	Approved	ATP1AL1	HK, #945, 2	13q12.12	L42558	NM_001676
+HGNC:32925	ATXN8	ataxin 8	Approved			13q21.33	DQ641254	
+HGNC:10561	ATXN8OS	ATXN8 opposite strand (non-protein coding)	Approved	SCA8, KLHL1AS	NCRNA00003	13q21.33	AF126749	NR_002717
+HGNC:49098	AZU1P1	azurocidin 1 pseudogene 1	Approved			13q14.11		
+HGNC:20207	B3GLCT	beta 3-glucosyltransferase	Approved	B3GALTL	B3GTL, B3Glc-T	13q12.3	AB101481	NM_194318
+HGNC:15732	BAGE5	BAGE family member 5	Approved		CT2.5	13cen, GRCh38 novel patch	AF339516	NM_182484
+HGNC:39418	BASP1P1	brain abundant, membrane attached signal protein 1 pseudogene 1	Approved			13q12.12		NR_033774
+HGNC:39596	BCAS2P3	BCAS2, pre-mRNA processing factor pseudogene 3	Approved			13q31.1		NG_021971
+HGNC:49113	BCRP9	breakpoint cluster region pseudogene 9	Approved			13q21.32		
+HGNC:39833	BCYRN1P3	brain cytoplasmic RNA 1, pseudogene 3	Approved			13q11		NG_005375
+HGNC:16034	BIVM	basic, immunoglobulin-like variable motif containing	Approved		FLJ20159	13q33.1	AF411385	
+HGNC:43690	BIVM-ERCC5	BIVM-ERCC5 readthrough	Approved			13q33.1	AB209312	NM_001204425
+HGNC:23828	BMIQ2	body mass index QTL 2	Approved			13q14		
+HGNC:49101	BNIP3P7	BCL2 interacting protein 3 pseudogene 7	Approved			13q11		
+HGNC:24724	BORA	bora, aurora kinase A activator	Approved	C13orf34	FLJ22624	13q21.33	BC025367	NM_024808
+HGNC:1101	BRCA2	BRCA2, DNA repair associated	Approved	FANCD1, FACD, FANCD	FAD, FAD1, BRCC2, XRCC11	13q13.1	U43746	NM_000059
+HGNC:18617	BRCA3	breast cancer 3	Approved		BRCAX	13q21		
+HGNC:37631	BRD7P5	bromodomain containing 7 pseudogene 5	Approved			13q32.1		
+HGNC:42021	BRK1P2	BRICK1, SCAR/WAVE actin-nucleating complex subunit pseudogene 2	Approved			13q31.3		
+HGNC:1126	BTF3P11	basic transcription factor 3 pseudogene 11	Approved	BTF3L1	HUMBTFB, TNFRSF11B, OPG, OCIF	13q22.3	M90354	NR_026983
+HGNC:28732	C1QTNF9	C1q and TNF related 9	Approved		MGC48915, CTRP9, C1QTNF9A, AQL1	13q12.12	BC040438	NM_178540
+HGNC:39906	C1QTNF9-AS1	C1QTNF9 antisense RNA 1	Approved			13q12.12		
+HGNC:34072	C1QTNF9B	C1q and TNF related 9B	Approved		CTRP9B	13q12.12	BC110413	NM_001007537
+HGNC:20290	CAB39L	calcium binding protein 39 like	Approved		bA103J18.3, FLJ12577, MO2L	13q14.2	AK022639	NM_030925
+HGNC:1448	CALM2P3	calmodulin 2 pseudogene 3	Approved			13q14.11	X52956	
+HGNC:39661	CALM2P4	calmodulin 2 pseudogene 4	Approved			13q32.2		
+HGNC:25695	CARS2	cysteinyl-tRNA synthetase 2, mitochondrial (putative)	Approved		FLJ12118	13q34	BC007220	NM_024537
+HGNC:39251	CASC4P1	cancer susceptibility 4 pseudogene 1	Approved			13q12.11		
+HGNC:25303	CCDC70	coiled-coil domain containing 70	Approved		DKFZP434K1172, FLJ25853	13q14.3		NM_031290
+HGNC:26478	CCDC122	coiled-coil domain containing 122	Approved		FLJ31846	13q14.11	AK056408	NM_144974
+HGNC:26851	CCDC168	coiled-coil domain containing 168	Approved	C13orf40	FLJ40176	13q33.1		NM_001146197
+HGNC:34361	CCDC169	coiled-coil domain containing 169	Approved	C13orf38	RP11-251J8.1, LOC728591	13q13.3		NM_001144981
+HGNC:38866	CCDC169-SOHLH2	CCDC169-SOHLH2 readthrough	Approved	C13orf38-SOHLH2		13q13.3		NM_001198910.1
+HGNC:1577	CCNA1	cyclin A1	Approved		CT146	13q13.3	U66838	NM_003914
+HGNC:39812	CCR12P	C-C motif chemokine receptor 12, pseudogene	Approved	GPR183P1		13q32.3		
+HGNC:35139	CCT5P2	chaperonin containing TCP1 subunit 5 pseudogene 2	Approved			13q31.1		
+HGNC:20299	CDADC1	cytidine and dCMP deaminase domain containing 1	Approved		NYD-SP15	13q14.2	AY027525	NM_030911
+HGNC:1720	CDC16	cell division cycle 16	Approved		APC6, ANAPC6, CUT9	13q34	U18291	NM_003903
+HGNC:1779	CDK8	cyclin dependent kinase 8	Approved		K35	13q12.13	X85753	
+HGNC:39853	CDKN2AIPNLP3	CDKN2A interacting protein N-terminal like pseudogene 3	Approved			13q14.11		
+HGNC:1806	CDX2	caudal type homeobox 2	Approved	CDX3		13q12.2	Y13709	
+HGNC:43675	CEND1P2	cell cycle exit and neuronal differentiation 1 pseudogene 2	Approved			13q12.12		
+HGNC:39575	CENPIP1	centromere protein I pseudogene 1	Approved			13q12.11		
+HGNC:17272	CENPJ	centromere protein J	Approved	MCPH6	CPAP, BM032, LAP, LIP1, Sas-4, SASS4, SCKL4	13q12.12-q12.13	AF139625	NM_018451
+HGNC:39960	CFL1P8	cofilin 1 pseudogene 8	Approved			13q32.3		
+HGNC:20311	CHAMP1	chromosome alignment maintaining phosphoprotein 1	Approved	C13orf8, ZNF828	CAMP, CHAMP	13q34	AK074894	NM_032436
+HGNC:39592	CHCHD2P8	coiled-coil-helix-coiled-coil-helix domain containing 2 pseudogene 8	Approved			13q12.2		
+HGNC:49029	CHCHD2P11	coiled-coil-helix-coiled-coil-helix domain containing 2 pseudogene 11	Approved			13q14.11		
+HGNC:1990	CKAP2	cytoskeleton associated protein 2	Approved		LB1, FLJ10749, se20-10, TMAP	13q14.3	AF177227	
+HGNC:42536	CLCP2	Charcot-Leyden crystal protein pseudogene 2	Approved		LGALS10P1	13q34	BK006815	NG_011415
+HGNC:2033	CLDN10	claudin 10	Approved		OSP-L, CPETRL3	13q32.1	U89916	NM_006984
+HGNC:39907	CLDN10-AS1	CLDN10 antisense RNA 1	Approved			13q32.1		
+HGNC:2076	CLN5	ceroid-lipofuscinosis, neuronal 5	Approved			13q22.3		NM_006493
+HGNC:51572	CLUHP9	clustered mitochondria homolog pseudogene 9	Approved			13q12.12		
+HGNC:18355	CLYBL	citrate lyase beta like	Approved		CLB	13q32.3	AF428253	
+HGNC:39893	CLYBL-AS1	CLYBL antisense RNA 1	Approved			13q32.3		
+HGNC:39894	CLYBL-AS2	CLYBL antisense RNA 2	Approved			13q32.3		
+HGNC:17005	CNMD	chondromodulin	Approved	MYETS1, LECT1	CHM-I, CHM1, BRICD3	13q14.3	AB006000	
+HGNC:39834	CNN2P12	calponin 2 pseudogene 12	Approved			13q11		
+HGNC:39272	CNOT4P1	CCR4-NOT transcription complex subunit 4 pseudogene 1	Approved			13q12.11		
+HGNC:18619	COG3	component of oligomeric golgi complex 3	Approved		SEC34	13q14.13	AF131829	
+HGNC:18621	COG6	component of oligomeric golgi complex 6	Approved		COD2, KIAA1134	13q14.11	AK026638	
+HGNC:2202	COL4A1	collagen type IV alpha 1 chain	Approved			13q34	J04217	
+HGNC:2203	COL4A2	collagen type IV alpha 2 chain	Approved		FLJ22259, DKFZp686I14213	13q34	AK025912	NM_001846
+HGNC:40156	COL4A2-AS1	COL4A2 antisense RNA 1	Approved			13q34		
+HGNC:39849	COL4A2-AS2	COL4A2 antisense 2	Approved			13q34		
+HGNC:24015	COMMD6	COMM domain containing 6	Approved		Acrg	13q22.2	AY542161	XM_085023
+HGNC:38036	COX4I1P2	cytochrome c oxidase subunit 4I1 pseudogene 2	Approved			13q14.13		
+HGNC:2275	COX5BP6	cytochrome c oxidase subunit 5B pseudogene 6	Approved	COX5BL6		13q32.3		
+HGNC:2293	COX7CP1	cytochrome c oxidase subunit 7C pseudogene 1	Approved			13q14.2	AF042165	
+HGNC:24341	COX17P1	COX17, cytochrome c oxidase copper chaperone pseudogene 1	Approved	COX17P		13q14.13		
+HGNC:2300	CPB2	carboxypeptidase B2	Approved		CPU, PCPB, TAFI	13q14.13	M75106	NM_001872
+HGNC:39898	CPB2-AS1	CPB2 antisense RNA 1	Approved			13q14.13		
+HGNC:18246	CRYL1	crystallin lambda 1	Approved		GDH, lambda-CRY, MGC149525, MGC149526	13q12.11	AF077049	NM_015974
+HGNC:20289	CSNK1A1L	casein kinase 1 alpha 1 like	Approved		MGC33182	13q13.3	BC028723	NM_145203
+HGNC:24348	CTAGE3P	CTAGE family member 3, pseudogene	Approved	CTAGE3	cTAGE-3	13q14.3	AF338231	
+HGNC:37288	CTAGE10P	CTAGE family member 10, pseudogene	Approved			13q14.2		NR_003268
+HGNC:37293	CTAGE11P	CTAGE family member 11, pseudogene	Approved			13q22.2		NR_027466
+HGNC:41967	CTAGE16P	CTAGE family member 16, pseudogene	Approved			13q21.1		
+HGNC:2554	CUL4A	cullin 4A	Approved			13q34	U58090	NM_003589
+HGNC:24406	CYCSP32	cytochrome c, somatic pseudogene 32	Approved		HCP32	13q12.11	AF533193	NG_002981
+HGNC:24407	CYCSP33	cytochrome c, somatic pseudogene 33	Approved		HCP33	13q12.12	AF533194	NG_002982
+HGNC:24408	CYCSP34	cytochrome c, somatic pseudogene 34	Approved		HCP34	13q14.11	AF533195	NG_002983
+HGNC:24409	CYCSP35	cytochrome c, somatic pseudogene 35	Approved		HCP35, HC8	13q32.2	M22891	NG_002984
+HGNC:39953	CYP4F34P	cytochrome P450 family 4 subfamily F member 34, pseudogene	Approved		CYP4F-se7[6:7:8]	13q11		NG_024825
+HGNC:20251	CYP51A1P2	cytochrome P450 family 51 subfamily A member 1 pseudogene 2	Approved	CYP51P2		13q12.3	U40053	
+HGNC:18274	CYSLTR2	cysteinyl leukotriene receptor 2	Approved		CysLT(2), CYSLT2R	13q14.2	AB038269	
+HGNC:2663	DACH1	dachshund family transcription factor 1	Approved	DACH		13q21.33	AJ005670	NM_004392
+HGNC:21191	DAOA	D-amino acid oxidase activator	Approved		G72	13q33.2	AY138547	NM_172370
+HGNC:30243	DAOA-AS1	DAOA antisense RNA 1	Approved	DAOAAS, DAOA-AS	G30	13q33.2	AY138548	
+HGNC:2700	DCLK1	doublecortin like kinase 1	Approved	DCAMKL1	KIAA0369, DCLK, DCDC3A	13q13.3	AB002367	NM_004734
+HGNC:2709	DCT	dopachrome tautomerase	Approved	TYRP2		13q32.1	D17547	
+HGNC:20328	DCUN1D2	defective in cullin neddylation 1 domain containing 2	Approved	C13orf17	FLJ10704, FLJ20092	13q34	AK001566	NM_018185
+HGNC:39889	DCUN1D2-AS	DCUN1D2 antisense RNA	Approved	DCUN1D2-AS2		13q34	AI203167	
+HGNC:37806	DDX6P2	DEAD-box helicase 6 pseudogene 2	Approved			13q31.1		
+HGNC:39664	DDX39AP1	DEAD-box helicase 39A pseudogene 1	Approved			13q12.12		
+HGNC:2805	DFNA33	deafness, autosomal dominant 33	Approved			13q34-qter		
+HGNC:2854	DGKH	diacylglycerol kinase eta	Approved		DGKeta	13q14.11	AB078967	NM_178009
+HGNC:39263	DGKZP1	diacylglycerol kinase zeta pseudogene 1	Approved			13q14.11		NG_005323
+HGNC:25832	DHRS12	dehydrogenase/reductase 12	Approved		FLJ13639, SDR40C1	13q14.3	AK023701	NM_024705
+HGNC:2751	DHX9P1	DEAH-box helicase 9 pseudogene 1	Approved	DDX9P, DHX9P		13q22.3		NG_002657
+HGNC:15480	DIAPH3	diaphanous related formin 3	Approved	AUNA1	DRF3, FLJ34705, AN, NSDAN	13q21.2	AL137718	NM_001042517
+HGNC:39915	DIAPH3-AS1	DIAPH3 antisense RNA 1	Approved			13q21.2		
+HGNC:39916	DIAPH3-AS2	DIAPH3 antisense RNA 2	Approved			13q21.2		
+HGNC:20604	DIS3	DIS3 homolog, exosome endoribonuclease and 3'-5' exoribonuclease	Approved	KIAA1008	dis3p, RRP44, EXOSC11	13q21.33	AB023225	NM_014953
+HGNC:13747	DLEU1	deleted in lymphocytic leukemia 1	Approved	DLB1, BCMS	LEU1, XTP6, NCRNA00021, LINC00021, BCMS1	13q14.2-q14.3	Y15227	NR_002605
+HGNC:50496	DLEU1-AS1	DLEU1 antisense RNA 1	Approved		LINC01308	13q14.3	BM264234	
+HGNC:13748	DLEU2	deleted in lymphocytic leukemia 2 (non-protein coding)	Approved	DLB2, BCMSUN, RFP2OS	LEU2, TRIM13OS, NCRNA00022, LINC00022, MIR15AHG	13q14.2	Y15228	NR_002612
+HGNC:17567	DLEU7	deleted in lymphocytic leukemia, 7	Approved		FLJ44882	13q14.3	AK126830	NM_198989
+HGNC:39966	DLEU7-AS1	DLEU7 antisense RNA 1	Approved			13q14.3		
+HGNC:39337	DNAJA1P1	DnaJ heat shock protein family (Hsp40) member A1 pseudogene 1	Approved			13q21.1		NG_011453
+HGNC:9439	DNAJC3	DnaJ heat shock protein family (Hsp40) member C3	Approved	PRKRI	P58, P58IPK, HP58, ERdj6	13q32.1	U28424	
+HGNC:39808	DNAJC3-AS1	DNAJC3 antisense RNA 1 (head to head)	Approved			13q32.1		
+HGNC:20325	DNAJC15	DnaJ heat shock protein family (Hsp40) member C15	Approved	DNAJD1	MCJ	13q14.11	AF126743	NM_013238
+HGNC:14132	DOCK9	dedicator of cytokinesis 9	Approved		KIAA1058, ZIZ1	13q32.3	AF527605	NM_015296
+HGNC:40672	DOCK9-AS1	DOCK9 antisense RNA 1	Approved			13q32.3	AI027206	
+HGNC:43696	DOCK9-AS2	DOCK9 antisense RNA 2 (head to head)	Approved			13q32.3	AF339771	
+HGNC:49062	DPPA3P3	developmental pluripotency associated 3 pseudogene 3	Approved			13q31.1		
+HGNC:20908	DZIP1	DAZ interacting zinc finger protein 1	Approved		KIAA0996, DZIP	13q32.1	AB023213	NM_014934
+HGNC:18061	EBPL	emopamil binding protein like	Approved		EBRP	13q14.2	AF243433	NM_032565
+HGNC:3180	EDNRB	endothelin receptor type B	Approved	HSCR2, HSCR	ETB	13q22.3	L06623	
+HGNC:49045	EDNRB-AS1	EDNRB antisense RNA 1	Approved			13q22.3	BC031243	NR_103853
+HGNC:3194	EEF1A1P3	eukaryotic translation elongation factor 1 alpha 1 pseudogene 3	Approved	EEF1AL, EEF1AL1		13q12.2		
+HGNC:27351	EEF1AKMT1	EEF1A lysine methyltransferase 1	Approved	N6AMT2		13q12.11	AK055408	NM_174928
+HGNC:30486	EEF1DP3	eukaryotic translation elongation factor 1 delta pseudogene 3	Approved			13q13.1		NR_027062
+HGNC:3227	EFNB2	ephrin B2	Approved	EPLG5	LERK5, Htk-L, HTKL, MGC126226, MGC126227, MGC126228	13q33.3	L38734	NM_004093
+HGNC:28863	EIF3FP2	eukaryotic translation initiation factor 3 subunit F pseudogene 2	Approved		IFP38	13q11		
+HGNC:37924	EIF4A1P5	eukaryotic translation initiation factor 4A1 pseudogene 5	Approved			13q13.3		NG_011401
+HGNC:37925	EIF4A1P6	eukaryotic translation initiation factor 4A1 pseudogene 6	Approved			13q21.2		
+HGNC:37926	EIF4A1P7	eukaryotic translation initiation factor 4A1 pseudogene 7	Approved			13q12.3		NG_011333
+HGNC:3316	ELF1	E74 like ETS transcription factor 1	Approved			13q14.11	M82882	NM_172373
+HGNC:39345	ELL2P3	elongation factor for RNA polymerase II 2 pseudogene 3	Approved			13q21.33		NG_028874
+HGNC:39719	ELOBP1	elongin B pseudogene 1	Approved	TCEB2P1		13q12.13		
+HGNC:38159	ELOCP23	elongin C pseudogene 23	Approved	TCEB1P23		13q22.3		
+HGNC:25474	ENOX1	ecto-NOX disulfide-thiol exchanger 1	Approved		FLJ10094, PIG38, CNOX, cCNOX	13q14.11	EF432052	NM_017993
+HGNC:42396	ENOX1-AS1	ENOX1 antisense RNA 1	Approved			13q14.11		
+HGNC:42397	ENOX1-AS2	ENOX1 antisense RNA 2	Approved			13q14.11		
+HGNC:3369	ENUR1	enuresis, nocturnal 1	Approved			13q13-q14.3		
+HGNC:16465	EPSTI1	epithelial stromal interaction 1	Approved		BRESI1, MGC29634	13q14.11	AF396928	NM_001002264
+HGNC:3437	ERCC5	ERCC excision repair 5, endonuclease	Approved	ERCM2, XPGC		13q33.1	X71342	
+HGNC:26523	ERICH6B	glutamate rich 6B	Approved	FAM194B	FLJ32682	13q14.13		NM_182542
+HGNC:49313	ERVW-25	endogenous retrovirus group W member 25	Approved			13q13.3	HG421063	
+HGNC:3465	ESD	esterase D	Approved			13q14.2	M13450	
+HGNC:3472	ESRRAP1	estrogen-related receptor alpha pseudogene 1	Approved	ESRRAP		13q12.11	AL359457	NG_001009
+HGNC:24647	ESRRAP2	estrogen-related receptor alpha pseudogene 2	Approved		ESTRRA	13q12.11	U85258	NR_000033
+HGNC:17035	EXOSC8	exosome component 8	Approved		OIP2, RRP43, bA421P11.3, Rrp43p, EAP2, p9, CIP3	13q13.3	AF025438	NM_181503
+HGNC:3544	F7	coagulation factor VII	Approved			13q34		NM_000131
+HGNC:3528	F10	coagulation factor X	Approved			13q34		
+HGNC:40225	F10-AS1	F10 antisense RNA 1	Approved			13q34		
+HGNC:3558	FABP3P2	fatty acid binding protein 3 pseudogene 2	Approved		FABP3-ps, FABP3P	13q14.11	U72237	
+HGNC:31059	FABP5P1	fatty acid binding protein 5 pseudogene 1	Approved	FABP5L1	FABP5	13q22.1		NG_006997
+HGNC:31060	FABP5P2	fatty acid binding protein 5 pseudogene 2	Approved	FABP5L2		13q14.3		NG_009322
+HGNC:31061	FABP5P4	fatty acid binding protein 5 pseudogene 4	Approved	FABP5L4		13q31.3		
+HGNC:42022	FAM58DP	family with sequence similarity 58 member D, pseudogene	Approved			13q12.11		
+HGNC:26413	FAM124A	family with sequence similarity 124 member A	Approved		FLJ30707	13q14.3	AK096364	NM_145019
+HGNC:33877	FAM155A	family with sequence similarity 155 member A	Approved			13q33.3	L10374	NM_001080396
+HGNC:41503	FAM155A-IT1	FAM155A intronic transcript 1	Approved			13q33.3		
+HGNC:42012	FAM204CP	family with sequence similarity 204 member C, pseudogene	Approved			13q22.2		
+HGNC:39851	FAM206BP	family with sequence similarity 206 member B, pseudogene	Approved			13q14.13		
+HGNC:39715	FAM207BP	family with sequence similarity 207 member B, pseudogene	Approved			13q11		
+HGNC:26883	FAM216B	family with sequence similarity 216 member B	Approved	C13orf30	FLJ40919	13q14.11	AK098238	NM_182508
+HGNC:24482	FAM230C	family with sequence similarity 230 member C	Approved	NCRNA00281, LINC00281	DKFZP434B061	13q11	AK097777, BC040613	
+HGNC:39675	FAR1P1	fatty acyl-CoA reductase 1 pseudogene 1	Approved			13q31.3		
+HGNC:3591	FARP1	FERM, ARH/RhoGEF and pleckstrin domain protein 1	Approved		CDEP, PLEKHC2, MGC87400, PPP1R75	13q32.2	AB008430	NM_005766
+HGNC:40229	FARP1-AS1	FARP1 antisense RNA 1	Approved			13q32.2		
+HGNC:13599	FBXL3	F-box and leucine rich repeat protein 3	Approved	FBXL3A	FBL3, FBL3A	13q22.3	AF129532	
+HGNC:39832	FEM1AP4	fem-1 homolog A pseudogene 4	Approved			13q11		
+HGNC:3687	FGF9	fibroblast growth factor 9	Approved			13q12.11	D14838	
+HGNC:3671	FGF14	fibroblast growth factor 14	Approved		FHF4, SCA27	13q33.1		
+HGNC:40237	FGF14-AS1	FGF14 antisense RNA 1	Approved			13q33.1	AI217925	
+HGNC:44368	FGF14-AS2	FGF14 antisense RNA 2	Approved			13q33.1	BC033993, BM674599, BX096285	NR_036487
+HGNC:42774	FGF14-IT1	FGF14 intronic transcript 1	Approved			13q33.1		
+HGNC:39706	FGFR1OP2P1	FGFR1 oncogene partner 2 pseudogene 1	Approved			13q12.13		
+HGNC:39442	FHP1	fumarate hydratase pseudogene 1	Approved			13q14.11		
+HGNC:3716	FKBP1AP3	FK506 binding protein 1A pseudogene 3	Approved	FKBP1P3		13q14.13	M80200	
+HGNC:3763	FLT1	fms related tyrosine kinase 1	Approved	FLT	VEGFR1	13q12.3	AF063657	NM_002019
+HGNC:3765	FLT3	fms related tyrosine kinase 3	Approved		STK1, FLK2, CD135	13q12.2	U02687	
+HGNC:20296	FNDC3A	fibronectin type III domain containing 3A	Approved	FNDC3	bA203I16.5, KIAA0970	13q14.2	AB023187	NM_014923
+HGNC:3784	FNTAP2	farnesyltransferase, CAAX box, alpha pseudogene 2	Approved	FNTAL2		13q12.11		NG_005138
+HGNC:3819	FOXO1	forkhead box O1	Approved	FKHR, FOXO1A	FKH1	13q14.11		NM_002015
+HGNC:3850	FRA13A	fragile site, aphidicolin type, common, fra(13)(q13.2)	Approved			13q13.2		
+HGNC:3851	FRA13B	fragile site, BrdU type, common, fra(13)(q21)	Approved			13q21		
+HGNC:3852	FRA13C	fragile site, aphidicolin type, common, fra(13)(q21.2)	Approved			13q21.2		
+HGNC:3853	FRA13D	fragile site, aphidicolin type, common, fra(13)(q32)	Approved			13q32		
+HGNC:25396	FREM2	FRAS1 related extracellular matrix protein 2	Approved		DKFZp686J0811	13q13.3	BX538150	NM_207361
+HGNC:39964	FREM2-AS1	FREM2 antisense RNA 1	Approved			13q13.3		
+HGNC:20367	FRY	FRY microtubule binding protein	Approved	C13orf14	bA37E23.1, 13CDNA73, CG003	13q13.1	AL049784	NM_023037
+HGNC:39725	FRY-AS1	FRY antisense RNA 1	Approved			13q13.1	BC035084	
+HGNC:3994	FTH1P7	ferritin heavy chain 1 pseudogene 7	Approved	FTHL7		13q12.12		NR_002202
+HGNC:37956	FTLP8	ferritin light chain pseudogene 8	Approved			13q32.2		
+HGNC:37697	GAMTP2	guanidinoacetate N-methyltransferase pseudogene 2	Approved			13q13.2		
+HGNC:37774	GAPDHP22	glyceraldehyde 3 phosphate dehydrogenase pseudogene 22	Approved			13q32.3		NG_011332
+HGNC:37786	GAPDHP34	glyceraldehyde 3 phosphate dehydrogenase pseudogene 34	Approved			13q13.3		NG_011461
+HGNC:38558	GAPDHP52	glyceraldehyde 3 phosphate dehydrogenase pseudogene 52	Approved			13q12.11		NG_024895
+HGNC:4147	GAPDHP69	glyceraldehyde 3 phosphate dehydrogenase pseudogene 69	Approved	GAPDL14, GAPDHL14		13q12.3		NG_009332
+HGNC:4168	GAS6	growth arrest specific 6	Approved	AXLLG	AXSF, FLJ34709, DKFZp666G247	13q34		NM_000820
+HGNC:39826	GAS6-AS1	GAS6 antisense RNA 1	Approved			13q34		
+HGNC:43694	GAS6-AS2	GAS6 antisense RNA 2 (head to head)	Approved		FLJ44054	13q34	AK126042	NR_024609
+HGNC:25100	GGACT	gamma-glutamylamine cyclotransferase	Approved	A2LD1		13q32.3		NM_033110
+HGNC:33207	GGT4P	gamma-glutamyltransferase 4 pseudogene	Approved			13q11		XR_038677
+HGNC:4277	GJA3	gap junction protein alpha 3	Approved	CZP3	CX46	13q12.11	AF075290	NM_021954
+HGNC:4284	GJB2	gap junction protein beta 2	Approved	DFNB1, DFNA3	CX26, NSRD1	13q12.11	M86849	
+HGNC:4288	GJB6	gap junction protein beta 6	Approved	DFNA3, ED2	EDH, HED, CX30	13q12.11	AJ005585	
+HGNC:33554	GNG5P5	G protein subunit gamma 5 pseudogene 5	Approved			13q14.2		NG_006564
+HGNC:20298	GPALPP1	GPALPP motifs containing 1	Approved	KIAA1704	bA245H20.2, AD029, LSR7	13q14.12	AB051491	NM_018559
+HGNC:4453	GPC5	glypican 5	Approved			13q31.3	AF001462	NM_004466
+HGNC:39886	GPC5-AS1	GPC5 antisense RNA 1	Approved			13q31.3		
+HGNC:39887	GPC5-AS2	GPC5 antisense RNA 2	Approved			13q31.3		
+HGNC:41340	GPC5-IT1	GPC5 intronic transcript 1	Approved			13q31.3		
+HGNC:4454	GPC6	glypican 6	Approved			13q31.3-q32.1	AF111178	NM_005708
+HGNC:39909	GPC6-AS1	GPC6 antisense RNA 1	Approved			13q31.3		
+HGNC:39910	GPC6-AS2	GPC6 antisense RNA 2	Approved			13q31.3		
+HGNC:4466	GPR12	G protein-coupled receptor 12	Approved		GPCR21, PPP1R84	13q12.13	U18548	
+HGNC:4472	GPR18	G protein-coupled receptor 18	Approved			13q32.3	L42324	
+HGNC:28899	GPR180	G protein-coupled receptor 180	Approved		ITR	13q32.1	AF339823	NM_180989
+HGNC:3128	GPR183	G protein-coupled receptor 183	Approved	EBI2		13q32.3	L08177	NM_004951
+HGNC:10013	GRK1	G protein-coupled receptor kinase 1	Approved	RHOK	GPRK1, RK	13q34		NM_002929
+HGNC:4547	GRK6P1	G protein-coupled receptor kinase 6 pseudogene 1	Approved	GPRK6L, GPRK6P, GRK6PS		13q12.11	U48958	
+HGNC:41969	GRPEL2P1	GrpE like 2, mitochondrial pseudogene 1	Approved			13q31.2		
+HGNC:20310	GRTP1	growth hormone regulated TBC protein 1	Approved		FLJ22474, TBC1D6	13q34	AK026127	NM_024719
+HGNC:39917	GRTP1-AS1	GRTP1 antisense RNA 1	Approved			13q34		
+HGNC:20374	GSX1	GS homeobox 1	Approved	GSH1	Gsh-1	13q12.2	AB044157	NM_145657
+HGNC:4653	GTF2F2	general transcription factor IIF subunit 2	Approved		TFIIF, BTF4, RAP30	13q14.12-q14.13	X16901	NM_004128
+HGNC:42640	GTF2IP3	general transcription factor IIi pseudogene 3	Approved			13q12.11		NG_023043
+HGNC:4662	GTF3A	general transcription factor IIIA	Approved		TFIIIA, AP2	13q12.2		NM_002097
+HGNC:4686	GUCY1B2	guanylate cyclase 1 soluble subunit beta 2 (pseudogene)	Approved		GC-SB2	13q14.3	AF038499	
+HGNC:39676	GXYLT1P1	glucoside xylosyltransferase 1 pseudogene 1	Approved			13q11		
+HGNC:39710	GYG1P2	glycogenin 1 pseudogene 2	Approved			13q31.1		
+HGNC:38013	H2AFZP3	H2A histone family member Z pseudogene 3	Approved			13q32.3		NG_011430
+HGNC:42030	H3F3BP1	H3 histone, family 3B pseudogene 1	Approved			13q21.33		
+HGNC:39815	HCFC2P1	host cell factor C2 pseudogene 1	Approved			13q33.3		
+HGNC:42642	HIGD1AP2	HIG1 hypoxia inducible domain family member 1A pseudogene 2	Approved			13q31.1		
+HGNC:42647	HIST1H2APS6	histone cluster 1 H2A pseudogene 6	Approved			13q13.3		NG_029174
+HGNC:42633	HIST1H2BPS3	histone cluster 1 H2B pseudogene 3	Approved			13q12.11		NG_030513
+HGNC:19121	HMGA1P6	high mobility group AT-hook 1 pseudogene 6	Approved	HMGA1L6		13q12.12		
+HGNC:4983	HMGB1	high mobility group box 1	Approved	HMG1	HMG3, SBP-1, DKFZp686A04236	13q12.3	D63874	NM_002128
+HGNC:39104	HMGB3P4	high mobility group box 3 pseudogene 4	Approved			13q32.3		
+HGNC:39299	HMGB3P7	high mobility group box 3 pseudogene 7	Approved			13q33.1		NG_024948
+HGNC:39368	HMGN1P24	high mobility group nucleosome binding domain 1 pseudogene 24	Approved			13q32.1		
+HGNC:39410	HMGN2P39	high mobility group nucleosomal binding domain 2 pseudogene 39	Approved			13q21.1		
+HGNC:35417	HNF4GP1	hepatocyte nuclear factor 4 gamma pseudogene 1	Approved			13q21.1		
+HGNC:27067	HNRNPA1L2	heterogeneous nuclear ribonucleoprotein A1-like 2	Approved		LOC144983	13q14.3		NM_001011724
+HGNC:39445	HNRNPA1P18	heterogeneous nuclear ribonucleoprotein A1 pseudogene 18	Approved			13q21.33		
+HGNC:39547	HNRNPA1P29	heterogeneous nuclear ribonucleoprotein A1 pseudogene 29	Approved			13q31.3		
+HGNC:39548	HNRNPA1P30	heterogeneous nuclear ribonucleoprotein A1 pseudogene 30	Approved			13q12.11		
+HGNC:39549	HNRNPA1P31	heterogeneous nuclear ribonucleoprotein A1 pseudogene 31	Approved			13q31.1		
+HGNC:39774	HNRNPA3P5	heterogeneous nuclear ribonucleoprotein A3 pseudogene 5	Approved			13q21.32		
+HGNC:19134	HS6ST3	heparan sulfate 6-O-sulfotransferase 3	Approved			13q32.1	AF539426	NM_153456
+HGNC:32540	HSP90AB6P	heat shock protein 90 alpha family class B member 6, pseudogene	Approved			13q32.1	AY956767	
+HGNC:39806	HSPA8P2	heat shock protein family A (Hsp70) member 8 pseudogene 2	Approved			13q31.3		NG_024873
+HGNC:35145	HSPD1P8	heat shock protein family D (Hsp60) member 1 pseudogene 8	Approved		HSPD1-12P	13q31.1		
+HGNC:35132	HSPD1P9	heat shock protein family D (Hsp60) member 1 pseudogene 9	Approved		HSPD1-14P	13q13.3		
+HGNC:16969	HSPH1	heat shock protein family H (Hsp110) member 1	Approved		HSP105B, KIAA0201, HSP105A, NY-CO-25	13q12.3	AB003333	
+HGNC:5293	HTR2A	5-hydroxytryptamine receptor 2A	Approved	HTR2	5-HT2A	13q14.2	X57830	NM_000621
+HGNC:40289	HTR2A-AS1	HTR2A antisense RNA 1	Approved			13q14.2		
+HGNC:5408	IFIT1P1	interferon induced protein with tetratricopeptide repeats 1 pseudogene 1	Approved	G13P1, IFI56P, IFIT1P	II56P	13q13.1	AF196987	NG_001215
+HGNC:20606	IFT88	intraflagellar transport 88	Approved	TTC10	hTg737, Tg737, D13S1056E, MGC26259	13q12.11	AK058172	NM_006531
+HGNC:5984	IL17D	interleukin 17D	Approved		IL-22, IL-27, IL-17D, IL27, FLJ30846	13q12.11	AY078238	NM_138284
+HGNC:6062	ING1	inhibitor of growth family member 1	Approved		p33ING1, p33ING1b, p24ING1c, p33, p47, p47ING1a	13q34		NM_005537
+HGNC:14879	INTS6	integrator complex subunit 6	Approved	DDX26	DICE1, HDB, Notchl2, DBI-1, DDX26A, INT6	13q14.3	AF097645	NM_012141
+HGNC:42691	INTS6-AS1	INTS6 antisense RNA 1	Approved			13q14.3	AA397528	
+HGNC:39354	IPMKP1	inositol polyphosphate multikinase pseudogene 1	Approved			13q12.12		NG_011396
+HGNC:6402	IPO5	importin 5	Approved	KPNB3, RANBP5	IMB3, MGC2068, Pse1	13q32.2	U72761	NM_002271
+HGNC:39838	IPO7P2	importin 7 pseudogene 2	Approved			13q12.12		
+HGNC:39390	IPPKP1	inositol 1,3,4,5,6-pentakisphosphate 2-kinase pseudogene 1	Approved			13q12.11		
+HGNC:6126	IRS2	insulin receptor substrate 2	Approved			13q34	AB000732	NM_003749
+HGNC:33315	IRX1P1	iroquois homeobox 1 pseudogene 1	Approved			13q12.12		NG_009487
+HGNC:6164	ITGBL1	integrin subunit beta like 1	Approved		TIED, OSCP	13q33.1	AF072752	NM_004791
+HGNC:6174	ITM2B	integral membrane protein 2B	Approved		BRI, E25B, E3-16, BRICD2B, BRI2	13q14.2	AF092128	NM_021999
+HGNC:39207	KARSP1	lysyl-tRNA synthetase pseudogene 1	Approved			13q14.11		
+HGNC:39208	KARSP2	lysyl-tRNA synthetase pseudogene 2	Approved			13q34		
+HGNC:28361	KATNAL1	katanin catalytic subunit A1 like 1	Approved		MGC2599	13q12.3	AK097423	NM_032116
+HGNC:39724	KATNBL1P1	katanin regulatory subunit B1 like 1 pseudogene 1	Approved			13q12.2		
+HGNC:25340	KBTBD6	kelch repeat and BTB domain containing 6	Approved		DKFZp547E1912	13q14.11	AK056633	NM_152903
+HGNC:25266	KBTBD7	kelch repeat and BTB domain containing 7	Approved		DKFZP434E2318	13q14.11	AL136782	NM_032138
+HGNC:18893	KCNRG	potassium channel regulator	Approved			13q14.2		
+HGNC:23227	KCTD4	potassium channel tetramerization domain containing 4	Approved		bA321C24.3	13q14.12-q14.13	BC018063	
+HGNC:14678	KCTD12	potassium channel tetramerization domain containing 12	Approved	C13orf2	KIAA1778, PFET1	13q22.3	AF359381	NM_138444
+HGNC:19350	KDELC1	KDEL motif containing 1	Approved		MGC5302, EP58	13q33.1	BC001297	
+HGNC:6344	KL	klotho	Approved			13q13.1	AB005142	
+HGNC:6349	KLF5	Kruppel like factor 5	Approved	BTEB2	IKLF, CKLF	13q22.1	D14520	
+HGNC:6346	KLF12	Kruppel like factor 12	Approved		AP-2rep, HSPC122, AP2REP	13q22.1	AJ243274	NM_007249
+HGNC:6352	KLHL1	kelch like family member 1	Approved		KIAA1490, MRP2, FLJ30047	13q21.33	AB040923	NM_020866
+HGNC:6396	KPNA3	karyopherin subunit alpha 3	Approved		SRP1gamma, SRP4, hSRP1, IPOA4	13q14.2	D89618	NM_002267
+HGNC:39580	KRR1P1	KRR1, small subunit (SSU) processome component, homolog (yeast) pseudogene 1	Approved			13q12.11		
+HGNC:33396	KRT18P27	keratin 18 pseudogene 27	Approved			13q31.3		NT_009952
+HGNC:49127	L1TD1P1	LINE-1 type transposase domain containing 1 pseudogene 1	Approved			13q33.1		
+HGNC:26789	LACC1	laccase domain containing 1	Approved	C13orf31	FLJ38725, FAMIN	13q14.11	AK096044	NM_153218
+HGNC:6499	LAMP1	lysosomal associated membrane protein 1	Approved		CD107a	13q34	J03263	
+HGNC:39726	LAMTOR3P1	late endosomal/lysosomal adaptor, MAPK and MTOR activator 3 pseudogene 1	Approved			13q13.3		
+HGNC:6515	LATS2	large tumor suppressor kinase 2	Approved			13q12.11	AB028019	
+HGNC:39912	LATS2-AS1	LATS2 antisense RNA 1	Approved			13q12.11		
+HGNC:6528	LCP1	lymphocyte cytosolic protein 1	Approved		PLS2, CP64, L-PLASTIN, LC64P	13q14.13	M22300	NM_002298
+HGNC:6542	LDHBP1	lactate dehydrogenase B pseudogene 1	Approved	LDHBL1		13q34		NG_021974
+HGNC:23079	LGMNP1	legumain pseudogene 1	Approved	LGMN2P		13q21.31		NG_001534
+HGNC:6586	LHFP	lipoma HMGIC fusion partner	Approved		MGC22429	13q13.3-q14.11	AF098807	NM_005780
+HGNC:6601	LIG4	DNA ligase 4	Approved			13q33.3	X83441	NM_002312
+HGNC:38056	LIN28AP2	LIN28A pseudogene 2	Approved			13q31.2		
+HGNC:26737	LINC00282	long intergenic non-protein coding RNA 282	Approved	NCRNA00282	FLJ37307	13q14.3	AK094626	NR_027047
+HGNC:38809	LINC00283	long intergenic non-protein coding RNA 283	Approved	NCRNA00283		13q33.1		
+HGNC:26981	LINC00284	long intergenic non-protein coding RNA 284	Approved	NCRNA00284		13q14.11	AK001938	NR_026955
+HGNC:39210	LINC00297	long intergenic non-protein coding RNA 297	Approved	NCRNA00297		13q12.3		
+HGNC:42009	LINC00327	long intergenic non-protein coding RNA 327	Approved	NCRNA00327		13q12.12		
+HGNC:42027	LINC00328-2P	long intergenic non-protein coding RNA 328-2, pseudogene	Approved	NCRNA00328B, NCRNA00328-2P		13q11		
+HGNC:42047	LINC00330	long intergenic non-protein coding RNA 330	Approved	NCRNA00330		13q14.12	AK056732	
+HGNC:42048	LINC00331	long intergenic non-protein coding RNA 331	Approved	NCRNA00331		13q31.1		
+HGNC:42049	LINC00332	long intergenic non-protein coding RNA 332	Approved	NCRNA00332		13q14.11		
+HGNC:42050	LINC00333	long intergenic non-protein coding RNA 333	Approved	NCRNA00333		13q31.1		
+HGNC:42500	LINC00343	long intergenic non-protein coding RNA 343	Approved	NCRNA00343, LINC00344, NCRNA00344		13q33.2		
+HGNC:42503	LINC00345	long intergenic non-protein coding RNA 345	Approved			13q14.3		
+HGNC:27492	LINC00346	long intergenic non-protein coding RNA 346	Approved	C13orf29, NCRNA00346		13q34		NR_027701
+HGNC:27890	LINC00347	long intergenic non-protein coding RNA 347	Approved			13q22.1		
+HGNC:42658	LINC00348	long intergenic non-protein coding RNA 348	Approved			13q21.33		
+HGNC:42667	LINC00349	long intergenic non-protein coding RNA 349	Approved			13q11		
+HGNC:42668	LINC00350	long intergenic non-protein coding RNA 350	Approved			13q12.11		
+HGNC:42669	LINC00351	long intergenic non-protein coding RNA 351	Approved			13q31.1		
+HGNC:42670	LINC00352	long intergenic non-protein coding RNA 352	Approved			13q12.12		
+HGNC:42671	LINC00353	long intergenic non-protein coding RNA 353	Approved			13q31.3		
+HGNC:42672	LINC00354	long intergenic non-protein coding RNA 354	Approved			13q34		
+HGNC:27061	LINC00355	long intergenic non-protein coding RNA 355	Approved			13q21.31		
+HGNC:42678	LINC00358	long intergenic non-protein coding RNA 358	Approved			13q21.31		
+HGNC:42679	LINC00359	long intergenic non-protein coding RNA 359	Approved			13q32.1		
+HGNC:42682	LINC00362	long intergenic non-protein coding RNA 362	Approved			13q12.12		
+HGNC:42684	LINC00363	long intergenic non-protein coding RNA 363	Approved		TCONS_00021586	13q31.3	AA885151	
+HGNC:42686	LINC00364	long intergenic non-protein coding RNA 364	Approved			13q21.32		
+HGNC:42687	LINC00365	long intergenic non-protein coding RNA 365	Approved			13q12.3		NR_046998
+HGNC:42688	LINC00366	long intergenic non-protein coding RNA 366	Approved			13q13.3		
+HGNC:42689	LINC00367	long intergenic non-protein coding RNA 367	Approved		TCONS_l2_00007488	13q12.11	BG723634	NR_104058
+HGNC:42690	LINC00368	long intergenic non-protein coding RNA 368	Approved			13q34	BG720241	
+HGNC:42692	LINC00370	long intergenic non-protein coding RNA 370	Approved			13q33.3	BF695150	
+HGNC:42693	LINC00371	long intergenic non-protein coding RNA 371	Approved			13q14.3		
+HGNC:42698	LINC00374	long intergenic non-protein coding RNA 374	Approved			13q21.1	BG190276	
+HGNC:42699	LINC00375	long intergenic non-protein coding RNA 375	Approved			13q31.1	AW510855	
+HGNC:42701	LINC00376	long intergenic non-protein coding RNA 376	Approved			13q21.31	AA759092	
+HGNC:42703	LINC00377	long intergenic non-protein coding RNA 377	Approved		TCONS_00021861	13q31.1	BG185523	
+HGNC:42704	LINC00378	long intergenic non-protein coding RNA 378	Approved			13q21.2		
+HGNC:42705	LINC00379	long intergenic non-protein coding RNA 379	Approved			13q31.3		
+HGNC:42706	LINC00380	long intergenic non-protein coding RNA 380	Approved		TCONS_00021685	13q31.3	AA609658	
+HGNC:42708	LINC00381	long intergenic non-protein coding RNA 381	Approved			13q22.1		
+HGNC:42709	LINC00382	long intergenic non-protein coding RNA 382	Approved		TCONS_00021500	13q31.1	BG717866	
+HGNC:42710	LINC00383	long intergenic non-protein coding RNA 383	Approved	LINC00401		13q21.33	BG527271, BM557184	NR_125752
+HGNC:42711	LINC00384	long intergenic non-protein coding RNA 384	Approved			13q12.3	BX648491	
+HGNC:42713	LINC00385	long intergenic non-protein coding RNA 385	Approved			13q12.3	AI203837	
+HGNC:42715	LINC00387	long intergenic non-protein coding RNA 387	Approved			13q11		
+HGNC:42716	LINC00388	long intergenic non-protein coding RNA 388	Approved			13q11		
+HGNC:42718	LINC00390	long intergenic non-protein coding RNA 390	Approved		TCONS_00021641	13q14.11	AW779259	
+HGNC:42719	LINC00391	long intergenic non-protein coding RNA 391	Approved			13q32.1		
+HGNC:42720	LINC00392	long intergenic non-protein coding RNA 392	Approved			13q22.1		
+HGNC:42721	LINC00393	long intergenic non-protein coding RNA 393	Approved			13q22.1		
+HGNC:42723	LINC00395	long intergenic non-protein coding RNA 395	Approved			13q21.31		
+HGNC:42724	LINC00396	long intergenic non-protein coding RNA 396	Approved			13q34	AA927226	
+HGNC:42725	LINC00397	long intergenic non-protein coding RNA 397	Approved		TCONS_00021582	13q31.2	AI286230	
+HGNC:42727	LINC00398	long intergenic non-protein coding RNA 398	Approved			13q12.3		
+HGNC:42728	LINC00399	long intergenic non-protein coding RNA 399	Approved		TCONS_00021596	13q33.3	BX111569, AI023810	
+HGNC:42729	LINC00400	long intergenic non-protein coding RNA 400	Approved			13q14.11		
+HGNC:42732	LINC00402	long intergenic non-protein coding RNA 402	Approved			13q22.1		
+HGNC:42733	LINC00403	long intergenic non-protein coding RNA 403	Approved			13q34		
+HGNC:42734	LINC00404	long intergenic non-protein coding RNA 404	Approved			13q34		
+HGNC:42739	LINC00407	long intergenic non-protein coding RNA 407	Approved			13q14.12	BG959100	
+HGNC:42740	LINC00408	long intergenic non-protein coding RNA 408	Approved			13q12.11	BG722014	
+HGNC:42742	LINC00410	long intergenic non-protein coding RNA 410	Approved			13q31.3		
+HGNC:42744	LINC00411	long intergenic non-protein coding RNA 411	Approved			13q32.3		
+HGNC:42745	LINC00412	long intergenic non-protein coding RNA 412	Approved			13q12.2	AI051530	
+HGNC:42748	LINC00415	long intergenic non-protein coding RNA 415	Approved			13q12.13		
+HGNC:42755	LINC00421	long intergenic non-protein coding RNA 421	Approved			13q12.11		
+HGNC:42758	LINC00423	long intergenic non-protein coding RNA 423	Approved			13q13.1		
+HGNC:42815	LINC00424	long intergenic non-protein coding RNA 424	Approved			13q12.11		
+HGNC:42761	LINC00426	long intergenic non-protein coding RNA 426	Approved			13q12.3		
+HGNC:42762	LINC00427	long intergenic non-protein coding RNA 427	Approved			13q12.3		
+HGNC:42763	LINC00428	long intergenic non-protein coding RNA 428	Approved			13q14.11	AA206719	
+HGNC:42765	LINC00430	long intergenic non-protein coding RNA 430	Approved		TCONS_00021581	13q31.1	AW661815	
+HGNC:42766	LINC00431	long intergenic non-protein coding RNA 431	Approved			13q34	BG181389	
+HGNC:42768	LINC00433	long intergenic non-protein coding RNA 433	Approved			13q31.2		
+HGNC:42769	LINC00434	long intergenic non-protein coding RNA 434	Approved			13q21.2		
+HGNC:42772	LINC00437	long intergenic non-protein coding RNA 437	Approved		TCONS_00021639	13q13.3	BM927018	
+HGNC:42777	LINC00440	long intergenic non-protein coding RNA 440	Approved			13q31.2		
+HGNC:42778	LINC00441	long intergenic non-protein coding RNA 441	Approved		ncRNA-RB1	13q14.2		NR_046414
+HGNC:42779	LINC00442	long intergenic non-protein coding RNA 442	Approved			13q12.11		
+HGNC:42780	LINC00443	long intergenic non-protein coding RNA 443	Approved			13q33.3		
+HGNC:42781	LINC00444	long intergenic non-protein coding RNA 444	Approved			13q14.2		
+HGNC:42782	LINC00445	long intergenic non-protein coding RNA 445	Approved			13q13.3		
+HGNC:42783	LINC00446	long intergenic non-protein coding RNA 446	Approved			13q22.3		
+HGNC:42785	LINC00448	long intergenic non-protein coding RNA 448	Approved			13q21.31		
+HGNC:42786	LINC00449	long intergenic non-protein coding RNA 449	Approved			13q32.3		
+HGNC:42800	LINC00452	long intergenic non-protein coding RNA 452	Approved	LINC00453		13q34		
+HGNC:42802	LINC00454	long intergenic non-protein coding RNA 454	Approved			13q34		
+HGNC:42804	LINC00456	long intergenic non-protein coding RNA 456	Approved			13q32.1	BG623605	
+HGNC:42805	LINC00457	long intergenic non-protein coding RNA 457	Approved			13q13.2		
+HGNC:42807	LINC00458	long intergenic non-protein coding RNA 458	Approved		LncRNA-ES3	13q14.3	BC026300	
+HGNC:42808	LINC00459	long intergenic non-protein coding RNA 459	Approved			13q21.31		
+HGNC:42809	LINC00460	long intergenic non-protein coding RNA 460	Approved			13q33.2		NR_034119
+HGNC:42811	LINC00462	long intergenic non-protein coding RNA 462	Approved			13q14.2		
+HGNC:42813	LINC00463	long intergenic non-protein coding RNA 463	Approved	AMER2-AS1	TCONS_l2_00007499	13q12.13	BM666193	
+HGNC:43672	LINC00539	long intergenic non-protein coding RNA 539	Approved	LINC00422		13q12.11	BG940872	
+HGNC:43673	LINC00540	long intergenic non-protein coding RNA 540	Approved			13q12.11	AK054845, BC035104	
+HGNC:43678	LINC00543	long intergenic non-protein coding RNA 543	Approved			13q12.2	CB142335, AI262987	NR_135254
+HGNC:43679	LINC00544	long intergenic non-protein coding RNA 544	Approved			13q12.3		NR_033889
+HGNC:43680	LINC00545	long intergenic non-protein coding RNA 545	Approved			13q12.3	AW971998, AA514237	
+HGNC:43682	LINC00547	long intergenic non-protein coding RNA 547	Approved		FLJ34747	13q13.3	AK092066	NR_040244
+HGNC:43683	LINC00548	long intergenic non-protein coding RNA 548	Approved		FLJ42392	13q14.11	AK124383	NR_033877
+HGNC:43688	LINC00550	long intergenic non-protein coding RNA 550	Approved			13q21.33	BC042673	NR_038878
+HGNC:43691	LINC00551	long intergenic non-protein coding RNA 551	Approved			13q33.3	AK098538	NR_051977
+HGNC:43692	LINC00552	long intergenic non-protein coding RNA 552	Approved			13q34	AK057435	NR_028064
+HGNC:43697	LINC00554	long intergenic non-protein coding RNA 554	Approved			13q32.3	BC068276	NR_047483
+HGNC:43699	LINC00555	long intergenic non-protein coding RNA 555	Approved			13q33.1	AF339825	
+HGNC:43700	LINC00556	long intergenic non-protein coding RNA 556	Approved			13q12.11	AF086361	
+HGNC:43701	LINC00557	long intergenic non-protein coding RNA 557	Approved			13q32.1	AF339811	NR_047487
+HGNC:43702	LINC00558	long intergenic non-protein coding RNA 558	Approved			13q14.3	BC041877	
+HGNC:43703	LINC00559	long intergenic non-protein coding RNA 559	Approved			13q31.3	BC043442	
+HGNC:43704	LINC00560	long intergenic non-protein coding RNA 560	Approved			13q31.2	BC043278	NR_047490
+HGNC:43705	LINC00561	long intergenic non-protein coding RNA 561	Approved			13q22.2	BC034981	
+HGNC:43706	LINC00562	long intergenic non-protein coding RNA 562	Approved			13q14.2	AK123146	NR_047492
+HGNC:43707	LINC00563	long intergenic non-protein coding RNA 563	Approved			13q14.13	U79295	
+HGNC:43708	LINC00564	long intergenic non-protein coding RNA 564	Approved			13q31.1	BC039360	NR_047494
+HGNC:43709	LINC00565	long intergenic non-protein coding RNA 565	Approved			13q34	AK092053	NR_047495
+HGNC:43710	LINC00566	long intergenic non-protein coding RNA 566	Approved			13q12.12	BC038727	NR_131903
+HGNC:43711	LINC00567	long intergenic non-protein coding RNA 567	Approved			13q34	BC035264	NR_135280
+HGNC:43721	LINC00571	long intergenic non-protein coding RNA 571	Approved			13q13.3	BM023585, BF887755	
+HGNC:43722	LINC00572	long intergenic non-protein coding RNA 572	Approved			13q12.3	BC039674	
+HGNC:42770	LINC00598	long intergenic non-protein coding RNA 598	Approved		TTL	13q14.11		NR_024505
+HGNC:44227	LINC00621	long intergenic non-protein coding RNA 621	Approved			13q12.12	AK091626	
+HGNC:44394	LINC00676	long intergenic non-protein coding RNA 676	Approved			13q34	AW816149	
+HGNC:49021	LINC01034	long intergenic non-protein coding RNA 1034	Approved		TCONS_00021570	13q22.2	BG183202	
+HGNC:49026	LINC01038	long intergenic non-protein coding RNA 1038	Approved			13q31.1	AI799053	
+HGNC:49027	LINC01039	long intergenic non-protein coding RNA 1039	Approved			13q32.3	BI464824	
+HGNC:49028	LINC01040	long intergenic non-protein coding RNA 1040	Approved		TCONS_00021682	13q31.3	BG192883	
+HGNC:49031	LINC01043	long intergenic non-protein coding RNA 1043	Approved			13q34	BX649107	
+HGNC:49032	LINC01044	long intergenic non-protein coding RNA 1044	Approved			13q34	BG722997	
+HGNC:49040	LINC01046	long intergenic non-protein coding RNA 1046	Approved			13q12.11	AW117237	
+HGNC:49041	LINC01047	long intergenic non-protein coding RNA 1047	Approved			13q31.2	BG183515	
+HGNC:49042	LINC01048	long intergenic non-protein coding RNA 1048	Approved			13q13.3	BX091314	
+HGNC:49043	LINC01049	long intergenic non-protein coding RNA 1049	Approved			13q31.3	BI825411	
+HGNC:49044	LINC01050	long intergenic non-protein coding RNA 1050	Approved			13q14.11	CD367180	
+HGNC:49046	LINC01052	long intergenic non-protein coding RNA 1052	Approved			13q21.32	AA889679	
+HGNC:49047	LINC01053	long intergenic non-protein coding RNA 1053	Approved			13q12.13		
+HGNC:49048	LINC01054	long intergenic non-protein coding RNA 1054	Approved			13q34	BG460330	
+HGNC:49049	LINC01055	long intergenic non-protein coding RNA 1055	Approved			13q14.13	BG431110	
+HGNC:49061	LINC01058	long intergenic non-protein coding RNA 1058	Approved			13q12.3	CF138692	
+HGNC:49103	LINC01065	long intergenic non-protein coding RNA 1065	Approved			13q14.3	AW303400	
+HGNC:49104	LINC01066	long intergenic non-protein coding RNA 1066	Approved			13q12.3	AA644401	
+HGNC:49105	LINC01067	long intergenic non-protein coding RNA 1067	Approved			13q33.3	BF969615	
+HGNC:49106	LINC01068	long intergenic non-protein coding RNA 1068	Approved			13q31.1	AI138787	
+HGNC:49109	LINC01069	long intergenic non-protein coding RNA 1069	Approved			13q22.3	BI825933	
+HGNC:49110	LINC01070	long intergenic non-protein coding RNA 1070	Approved			13q34	CR627049	
+HGNC:49112	LINC01072	long intergenic non-protein coding RNA 1072	Approved			13q12.11	AI150015	
+HGNC:49114	LINC01073	long intergenic non-protein coding RNA 1073	Approved			13q13.1	DR731308	
+HGNC:49117	LINC01074	long intergenic non-protein coding RNA 1074	Approved			13q21.31	BF057195	
+HGNC:49118	LINC01075	long intergenic non-protein coding RNA 1075	Approved			13q21.31	AI028357	
+HGNC:49119	LINC01076	long intergenic non-protein coding RNA 1076	Approved			13q12.13	BG190398	
+HGNC:49120	LINC01077	long intergenic non-protein coding RNA 1077	Approved			13q14.2	AI769787	
+HGNC:49121	LINC01078	long intergenic non-protein coding RNA 1078	Approved			13q22.2	AA442466	
+HGNC:49122	LINC01079	long intergenic non-protein coding RNA 1079	Approved			13q12.2	BM503984	
+HGNC:49123	LINC01080	long intergenic non-protein coding RNA 1080	Approved		TCONS_00021856	13q31.1	DA225206	NR_104138
+HGNC:49598	LINC01198	long intergenic non-protein coding RNA 1198	Approved			13q14.13	BC046635	NR_120426
+HGNC:49755	LINC01232	long intergenic non-protein coding RNA 1232	Approved		FLJ41590, TCONS_00021520	13q32.3	AK123584	
+HGNC:50497	LINC01309	long intergenic non-protein coding RNA 1309	Approved		TCONS_l2_00007459	13q33.1	AA421210	
+HGNC:50764	LINC01442	long intergenic non-protein coding RNA 1442	Approved			13q21.2	AK097816, AA393276	
+HGNC:39278	LIPT1P1	lipoyltransferase 1 pseudogene 1	Approved			13q33.1		NG_021973
+HGNC:6646	LMO7	LIM domain 7	Approved	FBXO20	FBX20, KIAA0858	13q22.2	AF092557	NM_005358
+HGNC:50277	LMO7-AS1	LMO7 antisense RNA 1	Approved		UCHL3-AS1	13q22.2	AW188034	
+HGNC:44370	LMO7DN	LMO7 downstream neighbor	Approved	C13orf45		13q22.2	AK092698	NM_001257995
+HGNC:49790	LMO7DN-IT1	LMO7DN intronic transcript 1	Approved	C13orf45-IT1	TCONS_00021569	13q22.2	AI825938	
+HGNC:20421	LNX2	ligand of numb-protein X 2	Approved	PDZRN1	MGC46315	13q12.2	AL138699	
+HGNC:39829	LONRF2P2	LON peptidase N-terminal domain and ring finger 2 pseudogene 2	Approved			13q11		
+HGNC:15520	LPAR6	lysophosphatidic acid receptor 6	Approved	P2RY5	P2Y5	13q14.2	AF000546	NM_005767
+HGNC:20309	LRCH1	leucine rich repeats and calponin homology domain containing 1	Approved	CHDC1	KIAA1016	13q14.13-q14.2	AB023233	NM_015116
+HGNC:34296	LRRC63	leucine rich repeat containing 63	Approved		RP11-139H14.4	13q14.13		XM_001718341
+HGNC:39716	LSP1P1	lymphocyte-specific protein 1 pseudogene 1	Approved			13q12.13		NG_023189
+HGNC:39790	LUC7L3P1	LUC7 like 3 pre-mRNA splicing factor pseudogene 1	Approved			13q21.33		
+HGNC:6757	MAB21L1	mab-21 like 1	Approved		CAGR1	13q13.3	BC028170	NM_005584
+HGNC:18977	MAPK6PS3	mitogen-activated protein kinase 6 pseudogene 3	Approved			13q14.11		NG_002453
+HGNC:39803	MARK2P12	microtubule affinity regulating kinase 2 pseudogene 12	Approved			13q22.1		
+HGNC:16746	MBNL2	muscleblind like splicing regulator 2	Approved		MBLL, MBLL39	13q32.1	AF061261	NM_144778
+HGNC:6926	MBS1	Moebius syndrome 1	Approved	MBS		13q12.2		
+HGNC:14576	MCF2L	MCF.2 cell line derived transforming sequence like	Approved		KIAA0362, DBS, OST, ARHGEF14	13q34	AB002360	
+HGNC:39825	MCF2L-AS1	MCF2L antisense RNA 1	Approved			13q34		
+HGNC:17903	MED4	mediator complex subunit 4	Approved	VDRIP	HSPC126, DRIP36, TRAP36	13q14.2	AF161475	NM_014166
+HGNC:39213	MED4-AS1	MED4 antisense RNA 1	Approved	MED4-AS		13q14.2		
+HGNC:25926	MEDAG	mesenteric estrogen dependent adipogenesis	Approved	C13orf33	FLJ14834, AWMS3, MEDA-4	13q12.3	AB055407	NM_032849
+HGNC:49102	MEMO1P5	mediator of cell motility 1 pseudogene 5	Approved			13q32.1		
+HGNC:33717	METTL21C	methyltransferase like 21C	Approved	C13orf39	LOC196541	13q33.1		NM_001010977
+HGNC:41948	METTL21EP	methyltransferase like 21E, pseudogene	Approved	METTL21CP1		13q33.1		NR_026965
+HGNC:39694	MFAP1P1	microfibrillar associated protein 1 pseudogene 1	Approved			13q12.3		
+HGNC:31830	MICU2	mitochondrial calcium uptake 2	Approved	EFHA1		13q12.11	AK091907	NM_152726
+HGNC:25036	MINOS1P1	mitochondrial inner membrane organizing system 1 pseudogene 1	Approved	N4BP2L2IT1, N4BP2L2-IT1	CG012	13q13.1	AL049782, U50530	
+HGNC:7104	MIPEP	mitochondrial intermediate peptidase	Approved		MIP	13q12.12		
+HGNC:39458	MIPEPP3	mitochondrial intermediate peptidase pseudogene 3	Approved			13q12.11		
+HGNC:31543	MIR15A	microRNA 15a	Approved	MIRN15A	hsa-mir-15a	13q14.2		NR_029485
+HGNC:31545	MIR16-1	microRNA 16-1	Approved	MIRN16-1	hsa-mir-16-1	13q14.2		NR_029486
+HGNC:31547	MIR17	microRNA 17	Approved	MIRN17	hsa-mir-17	13q31.3		NR_029487
+HGNC:23564	MIR17HG	miR-17-92a-1 cluster host gene	Approved	C13orf25, MIRHG1	FLJ14178, MIRH1, MIHG1, NCRNA00048, miR-17-92, LINC00048	13q31.3	AB176707	NR_027349
+HGNC:31548	MIR18A	microRNA 18a	Approved	MIRN18, MIRN18A	hsa-mir-18, hsa-mir-18a	13q31.3		NR_029488
+HGNC:31574	MIR19A	microRNA 19a	Approved	MIRN19A	hsa-mir-19a	13q31.3		NR_029489
+HGNC:31575	MIR19B1	microRNA 19b-1	Approved	MIRN19B1	hsa-mir-19b-1	13q31.3		NR_029490
+HGNC:31577	MIR20A	microRNA 20a	Approved	MIRN20, MIRN20A	hsa-mir-20, hsa-mir-20a	13q31.3		NR_029492
+HGNC:31643	MIR92A1	microRNA 92a-1	Approved	MIRN92-1, MIRN92A1	hsa-mir-92-1, hsa-mir-92a-1	13q31.3		NR_029508
+HGNC:35386	MIR320D1	microRNA 320d-1	Approved	MIRN320D1	hsa-mir-320d-1	13q14.11		NR_031723
+HGNC:43455	MIR548AR	microRNA 548ar	Approved		hsa-mir-548ar	13q34		NR_049839
+HGNC:43550	MIR548AS	microRNA 548as	Approved		hsa-mir-548as	13q31.3		NR_049840
+HGNC:41734	MIR548X2	microRNA 548x-2	Approved		hsa-mir-548x-2	13q21.32		NR_039692
+HGNC:32877	MIR621	microRNA 621	Approved	MIRN621	hsa-mir-621	13q14.11		NR_030352
+HGNC:32878	MIR622	microRNA 622	Approved	MIRN622	hsa-mir-622	13q31.3		NR_030754
+HGNC:32879	MIR623	microRNA 623	Approved	MIRN623	hsa-mir-623	13q32.3		NR_030353
+HGNC:37307	MIR759	microRNA 759	Approved		hsa-mir-759	13q14.3		NR_031582
+HGNC:35335	MIR1267	microRNA 1267	Approved	MIRN1267	hsa-mir-1267	13q33.3		NR_031671
+HGNC:35289	MIR1297	microRNA 1297	Approved	MIRN1297	hsa-mir-1297	13q14.3		NR_031628
+HGNC:37313	MIR2276	microRNA 2276	Approved		hsa-mir-2276	13q12.12		NR_031753
+HGNC:41532	MIR2681	microRNA 2681	Approved		hsa-mir-2681	13q33.1		NR_039603
+HGNC:38249	MIR3168	microRNA 3168	Approved		hsa-mir-3168	13q14.11		NR_036127
+HGNC:38380	MIR3169	microRNA 3169	Approved		hsa-mir-3169	13q21.2		NR_036128
+HGNC:38282	MIR3170	microRNA 3170	Approved		hsa-mir-3170	13q32.2		NR_036129
+HGNC:38964	MIR3613	microRNA 3613	Approved		hsa-mir-3613	13q14.2		NR_037407
+HGNC:38939	MIR3665	microRNA 3665	Approved		hsa-mir-3665	13q22.3		NR_037438
+HGNC:38301	MIR4305	microRNA 4305	Approved		hsa-mir-4305	13q14.11		NR_036190
+HGNC:38350	MIR4306	microRNA 4306	Approved		hsa-mir-4306	13q32.3		NR_036191
+HGNC:41739	MIR4499	microRNA 4499	Approved		hsa-mir-4499	13q12.11		NR_039721
+HGNC:41853	MIR4500	microRNA 4500	Approved		hsa-mir-4500	13q31.2		NR_039722
+HGNC:42773	MIR4500HG	MIR4500 host gene	Approved			13q31.2		NR_033829
+HGNC:41650	MIR4501	microRNA 4501	Approved		hsa-mir-4501	13q32.1		NR_039723
+HGNC:41534	MIR4502	microRNA 4502	Approved		hsa-mir-4502	13q34		NR_039724
+HGNC:41817	MIR4703	microRNA 4703	Approved		hsa-mir-4703	13q14.3		NR_039852
+HGNC:41602	MIR4704	microRNA 4704	Approved		hsa-mir-4704	13q21.32		NR_039853
+HGNC:41567	MIR4705	microRNA 4705	Approved		hsa-mir-4705	13q33.1		NR_039854
+HGNC:43495	MIR5006	microRNA 5006	Approved		hsa-mir-5006	13q14.11		NR_049803
+HGNC:43468	MIR5007	microRNA 5007	Approved		hsa-mir-5007	13q21.1		NR_049804
+HGNC:43499	MIR5693	microRNA 5693	Approved		hsa-mir-5693	13q14.3		NR_049878
+HGNC:50131	MIR8073	microRNA 8073	Approved		hsa-mir-8073	13q34		NR_107040
+HGNC:50172	MIR8075	microRNA 8075	Approved		hsa-mir-8075	13q34		NR_107042
+HGNC:50021	MIR8079	microRNA 8079	Approved		hsa-mir-8079	13q14.11		NR_107046
+HGNC:4495	MLNR	motilin receptor	Approved	GPR38		13q14.2	AF034632	NM_001507
+HGNC:42638	MOB1AP1	MOB kinase activator 1A pseudogene 1	Approved	MOBKL1BP1		13q31.1		
+HGNC:39444	MOCS3P2	molybdenum cofactor synthesis 3 pseudogene 2	Approved			13q14.11		NG_024852
+HGNC:39257	MORF4L1P4	mortality factor 4 like 1 pseudogene 4	Approved			13q14.11		
+HGNC:29810	MPHOSPH8	M-phase phosphoprotein 8	Approved		mpp8, HSMPP8	13q12.11	AK056785, AJ293409	NM_017520
+HGNC:29701	MRPL3P1	mitochondrial ribosomal protein L3 pseudogene 1	Approved			13q12.11		NG_002855
+HGNC:14514	MRPL57	mitochondrial ribosomal protein L57	Approved	MRP63		13q12.11	AB049957	NM_024026
+HGNC:16632	MRPS31	mitochondrial ribosomal protein S31	Approved		IMOGN38	13q14.11	Z68747	
+HGNC:39252	MRPS31P2	mitochondrial ribosomal protein S31 pseudogene 2	Approved			13q12.11		NG_004674
+HGNC:42649	MRPS31P4	mitochondrial ribosomal protein S31 pseudogene 4	Approved			13q14.3		
+HGNC:39253	MRPS31P5	mitochondrial ribosomal protein S31 pseudogene 5	Approved	MRPS31P3		13q14.3		
+HGNC:42040	MTCL1P1	MTCL1 pseudogene 1	Approved	CCDC165P1, SOGA2P1		13q21.33		
+HGNC:39576	MTCO2P3	mitochondrially encoded cytochrome c oxidase II pseudogene 3	Approved			13q21.1		
+HGNC:39681	MTCO3P2	mitochondrially encoded cytochrome c oxidase III pseudogene 2	Approved			13q12.12		
+HGNC:39579	MTCYBP3	mitochondrially encoded cytochrome b pseudogene 3	Approved			13q32.1		
+HGNC:29788	MTIF3	mitochondrial translational initiation factor 3	Approved		IF-3mt, IF3(mt)	13q12.2	BC046166	NM_152912
+HGNC:7453	MTMR6	myotubularin related protein 6	Approved			13q12.13	AF072928	NM_004685
+HGNC:39856	MTND3P1	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 3 pseudogene 1	Approved			13q12.11		
+HGNC:42035	MTND4P1	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4 pseudogene 1	Approved			13q31.1		
+HGNC:41919	MTND5P2	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5 pseudogene 2	Approved			13q32.1		
+HGNC:42034	MTND5P3	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5 pseudogene 3	Approved			13q31.1		
+HGNC:39481	MTND6P18	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6 pseudogene 18	Approved			13q32.1		
+HGNC:52328	MTND6P37	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6 pseudogene 37	Approved			13q31.1		
+HGNC:7469	MTRF1	mitochondrial translation release factor 1	Approved		RF1, MTTRF1, MGC47721	13q14.11	AF072934	NM_004294
+HGNC:20595	MTUS2	microtubule associated scaffold protein 2	Approved	KIAA0774	TIP150, CAZIP, ICIS	13q12.3	AB018317	XM_166270
+HGNC:40924	MTUS2-AS1	MTUS2 antisense RNA 1	Approved			13q12.3		
+HGNC:40923	MTUS2-AS2	MTUS2 antisense RNA 2	Approved			13q12.3		
+HGNC:23386	MYCBP2	MYC binding protein 2, E3 ubiquitin protein ligase	Approved		PAM, KIAA0916, FLJ10106	13q22.3	AB020723	NM_015057
+HGNC:41023	MYCBP2-AS1	MYCBP2 antisense RNA 1	Approved			13q22.3		
+HGNC:41024	MYCBP2-AS2	MYCBP2 antisense RNA 2	Approved			13q22.3		
+HGNC:29822	MYO16	myosin XVI	Approved		MYR8, KIAA0865, Myo16b, NYAP3, PPP1R107	13q33.3		NM_015011
+HGNC:39913	MYO16-AS1	MYO16 antisense RNA 1	Approved			13q33.3		
+HGNC:39914	MYO16-AS2	MYO16 antisense RNA 2	Approved			13q33.3		
+HGNC:33830	MZT1	mitotic spindle organizing protein 1	Approved	C13orf37	LOC440145, FLJ21869, MGC150539, RP11-11C5.2, MOZART1	13q21.33		NM_001071775
+HGNC:25037	N4BP2L1	NEDD4 binding protein 2 like 1	Approved		CG018	13q13.1	U50527	NM_052818
+HGNC:26916	N4BP2L2	NEDD4 binding protein 2 like 2	Approved		CG005, PFAAP5	13q13.1	U50532	NM_014887
+HGNC:25038	N4BP2L2-IT2	N4BPL2 intronic transcript 2	Approved		CG030	13q13.1	U50531	NR_026928
+HGNC:26164	NAA16	N(alpha)-acetyltransferase 16, NatA auxiliary subunit	Approved	NARG1L	FLJ22054, MGC40612, PRO2435	13q14.11	AL833341	NM_018527
+HGNC:19082	NALCN	sodium leak channel, non-selective	Approved	VGCNL1	bA430M15.1, CanIon	13q32.3-q33.1	AY141972	NM_052867
+HGNC:42743	NALCN-AS1	NALCN antisense RNA 1	Approved			13q32.3		
+HGNC:39738	NAP1L4P3	nucleosome assembly protein 1 like 4 pseudogene 3	Approved			13q14.2		
+HGNC:25576	NAXD	NAD(P)HX dehydratase	Approved	CARKD	LP3298, FLJ10769	13q34	AF151071	NM_018210
+HGNC:7648	NBEA	neurobeachin	Approved		KIAA1544, BCL8B, FLJ10197, LYST2	13q13.3	AF467288	NM_015678
+HGNC:49116	NDE1P2	nudE neurodevelopment protein 1 pseudogene 2	Approved			13q13.3		
+HGNC:18537	NDFIP2	Nedd4 family interacting protein 2	Approved		KIAA1165, N4wbp5a	13q31.1	AB032991	
+HGNC:40844	NDFIP2-AS1	NDFIP2 antisense RNA 1	Approved			13q31.1		
+HGNC:45054	NDUFA3P5	NADH:ubiquinone oxidoreductase subunit A3 pseudogene 5	Approved			13q32.1		
+HGNC:39419	NDUFA12P1	NADH:ubiquinone oxidoreductase subunit A12 pseudogene 1	Approved			13q32.3		NG_027984
+HGNC:7746	NEK3	NIMA related kinase 3	Approved		HSPK36, MGC29949	13q14.3	AK290259, BC019916	
+HGNC:7748	NEK5	NIMA related kinase 5	Approved			13q14.3	BC063885	NM_199289
+HGNC:34078	NFYAP1	nuclear transcription factor Y subunit alpha pseudogene 1	Approved	NFYAP		13q21.31		NG_007867
+HGNC:33751	NHLRC3	NHL repeat containing 3	Approved			13q13.3		NM_001012754
+HGNC:42045	NIPA2P5	non imprinted in Prader-Willi/Angelman syndrome 2 pseudogene 5	Approved			13q31.1		
+HGNC:39904	NME1P1	NME/NM23 nucleoside diphosphate kinase 1 pseudogene 1	Approved			13q12.11		
+HGNC:35099	NMTRQ-TTG10-1	nuclear-encoded mitochondrial transfer RNA-Gln (TTG) 10-1	Approved	TRNAQ50P		13q13.3	HG984156	
+HGNC:7924	NPM1P4	nucleophosmin 1 pseudogene 4	Approved	NPMP4	NG4-5	13q12.2	L15317	NG_011457
+HGNC:39679	NPM1P22	nucleophosmin 1 pseudogene 22	Approved			13q21.32		
+HGNC:39789	NT5CP3	5',3'-nucleotidase, cytosolic pseudogene 3	Approved			13q21.33		
+HGNC:23063	NUDT15	nudix hydrolase 15	Approved		MTH2, FLJ10956	13q14.2		NM_018283
+HGNC:39461	NUDT21P1	nudix hydrolase 21 pseudogene 1	Approved			13q31.2		NG_024870
+HGNC:8057	NUFIP1	NUFIP1, FMR1 interacting protein 1	Approved		NUFIP	13q14.12	AF159548	NM_012345
+HGNC:20261	NUP58	nucleoporin 58	Approved	NUPL1	KIAA0410, NUP45	13q12.13	AB007870	
+HGNC:38473	NUS1P2	NUS1 dehydrodolichyl diphosphate synthase subunit pseudogene 2	Approved			13q12.12		
+HGNC:30934	NUS1P3	NUS1 dehydrodolichyl diphosphate synthase subunit pseudogene 3	Approved		YDD19	13q12.12	U82319	NG_006509
+HGNC:38474	NUS1P4	NUS1 dehydrodolichyl diphosphate synthase subunit pseudogene 4	Approved			13q32.2		
+HGNC:39708	NXT1P1	nuclear transport factor 2 like export factor 1 pseudogene 1	Approved			13q13.3		
+HGNC:19188	NYS4	nystagmus 4, congenital autosomal dominant	Approved			13q31-q33		
+HGNC:39202	OGFOD1P1	2-oxoglutarate and iron dependent oxygenase domain containing 1 pseudogene 1	Approved			13q14.2		
+HGNC:17190	OLFM4	olfactomedin 4	Approved		OlfD, GW112, GC1	13q14.3	AY358567	NM_006418
+HGNC:8406	OR7E33P	olfactory receptor family 7 subfamily E member 33 pseudogene	Approved		hg688	13q21.32	AL353580	
+HGNC:8409	OR7E36P	olfactory receptor family 7 subfamily E member 36 pseudogene	Approved	OR7E119P	OST024	13q14.11	AA574056	NG_004129
+HGNC:8410	OR7E37P	olfactory receptor family 7 subfamily E member 37 pseudogene	Approved		hg533	13q14.11	AL354833	
+HGNC:15342	OR7E101P	olfactory receptor family 7 subfamily E member 101 pseudogene	Approved			13q14.13	AL157365	
+HGNC:15343	OR7E104P	olfactory receptor family 7 subfamily E member 104 pseudogene	Approved			13q21.31	AI799130	
+HGNC:15344	OR7E111P	olfactory receptor family 7 subfamily E member 111 pseudogene	Approved			13q21.32	AC023058	
+HGNC:31310	OR7E155P	olfactory receptor family 7 subfamily E member 155 pseudogene	Approved			13q14.11		
+HGNC:31311	OR7E156P	olfactory receptor family 7 subfamily E member 156 pseudogene	Approved			13q21.31		
+HGNC:4531	OXGR1	oxoglutarate receptor 1	Approved	GPR99, GPR80	P2RY15, P2Y15, aKGR	13q32.1	AF411109	NM_080818
+HGNC:8556	PABPC3	poly(A) binding protein cytoplasmic 3	Approved	PABPL3	PABP3, tPABP	13q12.13	AF132026	NM_030979
+HGNC:29991	PAN3	PAN3 poly(A) specific ribonuclease subunit	Approved			13q12.2	AK091307	NM_175854
+HGNC:39932	PAN3-AS1	PAN3 antisense RNA 1	Approved			13q12.2	BC045730	NR_029383
+HGNC:275	PARP1P1	poly(ADP-ribose) polymerase 1 pseudogene 1	Approved	PPOLP1, ADPRTP1		13q34		NG_002655
+HGNC:271	PARP4	poly(ADP-ribose) polymerase family member 4	Approved	ADPRTL1	VAULT3, p193, VPARP, VWA5C	13q12.12	AF057160	NM_006437
+HGNC:37760	PARP4P2	poly(ADP-ribose) polymerase family member 4 pseudogene 2	Approved			13q12.11		NG_011399
+HGNC:8653	PCCA	propionyl-CoA carboxylase alpha subunit	Approved			13q32.3	X14608	
+HGNC:39901	PCCA-AS1	PCCA antisense RNA 1	Approved			13q32.3		
+HGNC:8660	PCDH8	protocadherin 8	Approved		PAPC, ARCADLIN	13q14.3	AF061573	NM_002590
+HGNC:39937	PCDH8P1	protocadherin 8 pseudogene 1	Approved			13q14.3		
+HGNC:8661	PCDH9	protocadherin 9	Approved			13q21.32	AF169692	NM_203487
+HGNC:39897	PCDH9-AS1	PCDH9 antisense RNA 1	Approved			13q21.32		
+HGNC:39896	PCDH9-AS2	PCDH9 antisense RNA 2	Approved			13q21.32		
+HGNC:40427	PCDH9-AS3	PCDH9 antisense RNA 3	Approved			13q21.32		
+HGNC:40428	PCDH9-AS4	PCDH9 antisense RNA 4	Approved			13q21.32		
+HGNC:14267	PCDH17	protocadherin 17	Approved		PCDH68, PCH68	13q21.1	AF029343	NM_001040429
+HGNC:14257	PCDH20	protocadherin 20	Approved		PCDH13, FLJ22218	13q21.2	AF169693	NM_022843
+HGNC:25653	PCID2	PCI domain containing 2	Approved		FLJ11305	13q34	AK002167	NM_018386
+HGNC:41977	PCNPP5	PEST containing nuclear protein pseudogene 5	Approved			13q14.2		
+HGNC:39839	PCOTH	Pro-X-Gly collagen triple helix like repeat containing	Approved	C1QTNF9B-AS1		13q12.12		NM_001014442
+HGNC:39840	PCOTHP1	Pro-X-Gly collagen triple helix like repeat containing pseudogene 1	Approved			13q12.12		NG_029247
+HGNC:20418	PDS5B	PDS5 cohesin associated factor B	Approved	APRIN	AS3, KIAA0979, FLJ23236, CG008	13q13.1	AB023196	NM_015032
+HGNC:6107	PDX1	pancreatic and duodenal homeobox 1	Approved	IPF1	IDX-1, STF-1, PDX-1, MODY4	13q12.2	AF035260	NM_000209
+HGNC:39678	PEX12P1	peroxisomal biogenesis factor 12 pseudogene 1	Approved			13q31.3		
+HGNC:39292	PHBP13	prohibitin pseudogene 13	Approved			13q13.3		
+HGNC:30241	PHF2P1	PHD finger protein 2 pseudogene 1	Approved		DKFZp686A1627	13q11		NR_002801
+HGNC:38808	PHF2P2	PHD finger protein 2 pseudogene 2	Approved			13q12.11		
+HGNC:17024	PHF11	PHD finger protein 11	Approved		NY-REN-34, BCAP, IGER	13q14.2	AB011031	NM_016119
+HGNC:23352	PIBF1	progesterone immunomodulatory binding factor 1	Approved	C13orf24	CEP90	13q21.33-q22.1	AF330046	NM_006346
+HGNC:37562	PIRC58	piwi-interacting RNA cluster 58	Approved			13		
+HGNC:39249	PLA2G12AP2	phospholipase A2 group XIIA pseudogene 2	Approved			13q13.3		NG_024917
+HGNC:43698	PLUT	PDX1 associated lncRNA, upregulator of transcription	Approved	PDX1-AS1	PLUTO, HI-LNC71	13q12.2	BX383058, CR593175	
+HGNC:20422	POLR1D	RNA polymerase I subunit D	Approved		RPAC2, RPA16, RPO1-3, RPA9, MGC9850	13q12.2	AF077044, BC018528	NM_015972, NM_152705
+HGNC:42652	POLR2KP2	RNA polymerase II subunit K pseudogene 2	Approved			13q14.2		
+HGNC:39577	POLR3KP1	RNA polymerase III subunit K pseudogene 1	Approved			13q21.2		NG_023354
+HGNC:42635	POM121L13P	POM121 transmembrane nucleoporin like 13, pseudogene	Approved			13q12.3		
+HGNC:20330	POMP	proteasome maturation protein	Approved	C13orf12	HSPC014, UMP1	13q12.3	AF077200	NM_015932
+HGNC:16953	POSTN	periostin	Approved		OSF-2, PN, periostin	13q13.3	D13665	NM_006475
+HGNC:9218	POU4F1	POU class 4 homeobox 1	Approved	BRN3A	RDC-1	13q31.1	X64624	
+HGNC:39268	PPIAP23	peptidylprolyl isomerase A pseudogene 23	Approved			13q31.3		
+HGNC:39269	PPIAP24	peptidylprolyl isomerase A pseudogene 24	Approved			13q33.3		
+HGNC:39270	PPIAP25	peptidylprolyl isomerase A pseudogene 25	Approved			13q14.13		
+HGNC:39271	PPIAP26	peptidylprolyl isomerase A pseudogene 26	Approved			13q14.3		
+HGNC:42646	PPIAP27	peptidylprolyl isomerase A pseudogene 27	Approved			13q12.11		
+HGNC:39902	PPIAP28	peptidylprolyl isomerase A pseudogene 28	Approved			13q12.11		NG_011400
+HGNC:16319	PPP1R2P4	protein phosphatase 1 regulatory inhibitor subunit 2 pseudogene 4	Approved			13q14.13		NG_011458
+HGNC:42008	PPP1R2P10	protein phosphatase 1 regulatory inhibitor subunit 2 pseudogene 10	Approved			13q21.31		
+HGNC:42015	PPP1R26P1	protein phosphatase 1 regulatory subunit 26 pseudogene 1	Approved	KIAA0649P1		13q14.2		
+HGNC:30020	PRDX2P1	peroxiredoxin 2 pseudogene 1	Approved			13q12.3		NG_002915
+HGNC:39266	PRDX3P3	peroxiredoxin 3 pseudogene 3	Approved			13q13.3		
+HGNC:49064	PRELID3BP2	PRELI domain containing 3B pseudogene 2	Approved	SLMO2P2		13q14.3		
+HGNC:20291	PROSER1	proline and serine rich 1	Approved	C13orf23	bA50D16.2, FLJ12661	13q13.3	AK022723	NM_025138
+HGNC:9460	PROZ	protein Z, vitamin K dependent plasma glycoprotein	Approved		PZ	13q34	M55670	NM_003891
+HGNC:24754	PRR20A	proline rich 20A	Approved	PRR20	FLJ40296	13q21.1	BC120931	NM_198441
+HGNC:37220	PRR20B	proline rich 20B	Approved			13q21.1		NM_001130404
+HGNC:37221	PRR20C	proline rich 20C	Approved			13q21.1		NM_001130405
+HGNC:37222	PRR20D	proline rich 20D	Approved			13q21.1		NM_001130406
+HGNC:37223	PRR20E	proline rich 20E	Approved			13q21.1		NM_001130407
+HGNC:49097	PRR20FP	proline rich 20F, pseudogene	Approved		PRR20F	13q21.1		
+HGNC:39723	PRUNEP1	prune exopolyphosphatase pseudogene 1	Approved			13q12.13		
+HGNC:39609	PSMA6P4	proteasome subunit alpha 6 pseudogene 4	Approved			13q32.1		NG_023173
+HGNC:39788	PSMC1P13	proteasome 26S subunit, ATPase 1 pseudogene 13	Approved			13q21.33		
+HGNC:30152	PSMD10P3	proteasome 26S subunit, non-ATPase, 10 pseudogene 3	Approved			13q22.1		NG_002627
+HGNC:30160	PSME2P2	proteasome activator subunit 2 pseudogene 2	Approved			13q14.2		NG_002632
+HGNC:20320	PSPC1	paraspeckle component 1	Approved		PSP1, FLJ10955	13q12.11	AK001817	
+HGNC:42033	PSPC1P1	paraspeckle component 1 pseudogene 1	Approved			13q12.11		
+HGNC:42643	PSPC1P2	paraspeckle component 1 pseudogene 2	Approved			13q12.12		
+HGNC:9628	PTMAP5	prothymosin, alpha pseudogene 5	Approved			13q31.1	S38627	
+HGNC:9654	PTPN2P2	protein tyrosine phosphatase, non-receptor type 2 pseudogene 2	Approved			13q12.3		
+HGNC:39709	PWWP2AP1	PWWP domain containing 2A pseudogene 1	Approved			13q31.1		
+HGNC:18260	RAB20	RAB20, member RAS oncogene family	Approved		FLJ20429	13q34	AK000436	NM_017817
+HGNC:39791	RABEPKP1	Rab9 effector protein with kelch motifs pseudogene 1	Approved			13q21.33		
+HGNC:31833	RAC1P3	ras-related C3 botulinum toxin substrate 1 pseudogene 3	Approved		Psi3Rac1	13q14.11		
+HGNC:42005	RAC1P8	ras-related C3 botulinum toxin substrate 1 pseudogene 8	Approved			13q21.31		
+HGNC:9809	RAD17P2	RAD17 checkpoint clamp loader component pseudogene 2	Approved		HRAD17P2	13q14.2	AJ131310	
+HGNC:39863	RANP8	RAN, member RAS oncogene family pseudogene 8	Approved			13q12.11		
+HGNC:9861	RAP2A	RAP2A, member of RAS oncogene family	Approved	RAP2	K-REV	13q32.1	AF205602	
+HGNC:20331	RASA3	RAS p21 protein activator 3	Approved		GAP1IP4BP, GAPIII	13q34		NM_007368
+HGNC:39938	RASA3-IT1	RASA3 intronic transcript 1	Approved			13q34		
+HGNC:23802	RASL11A	RAS like family 11 member A	Approved			13q12.2	AY439004	NM_206827
+HGNC:9884	RB1	RB transcriptional corepressor 1	Approved	OSRC	RB, PPP1R130	13q14.2	M15400	NM_000321
+HGNC:39584	RBBP8P2	RB binding protein 8 pseudogene 2	Approved			13q12.13		NG_024906
+HGNC:39695	RBM22P2	RNA binding motif protein 22 pseudogene 2	Approved			13q12.3		
+HGNC:20327	RBM26	RNA binding motif protein 26	Approved	C13orf10	PRO1777, SE70-2, FLJ20957, ZC3H17, ARRS2, PPP1R132	13q31.1	AF116667	NM_022118
+HGNC:39805	RBM26-AS1	RBM26 antisense RNA 1	Approved			13q31.1	BC034812	
+HGNC:18243	RCBTB1	RCC1 and BTB domain containing protein 1	Approved		FLJ10716, CLLD7, CLLL7	13q14.2	AF334406	NM_018191
+HGNC:1914	RCBTB2	RCC1 and BTB domain containing protein 2	Approved	CHC1L		13q14.2	AF060219	NM_001268
+HGNC:39204	RCN1P2	reticulocalbin 1 pseudogene 2	Approved			13q14.13		NG_006546
+HGNC:9971	RFC3	replication factor C subunit 3	Approved		RFC38, MGC5276	13q13.2		NM_002915
+HGNC:39420	RFESDP1	Rieske (Fe-S) domain containing pseudogene 1	Approved			13q12.12		
+HGNC:9988	RFXAP	regulatory factor X associated protein	Approved			13q13.3	Y12812	NM_000538
+HGNC:20369	RGCC	regulator of cell cycle	Approved	C13orf15	bA157L14.2, RGC-32, RGC32	13q14.11	AF036549	NM_014059
+HGNC:39729	RGS17P1	regulator of G-protein signaling 17 pseudogene 1	Approved			13q14.11		
+HGNC:37839	RHOT1P3	ras homolog family member T1 pseudogene 3	Approved			13q11		
+HGNC:10015	RIEG2	Rieger syndrome 2	Approved		ARS	13q14		
+HGNC:39714	RIOK3P1	RIO kinase 3 pseudogene 1	Approved			13q22.1		
+HGNC:39682	RLIMP1	ring finger protein, LIM domain interacting pseudogene 1	Approved			13q14.11		
+HGNC:42619	RN7SKP1	RNA, 7SK small nuclear pseudogene 1	Approved			13q13.3		
+HGNC:42620	RN7SKP2	RNA, 7SK small nuclear pseudogene 2	Approved			13q14.11		
+HGNC:42621	RN7SKP3	RNA, 7SK small nuclear pseudogene 3	Approved			13q14.12		
+HGNC:42622	RN7SKP4	RNA, 7SK small nuclear pseudogene 4	Approved			13q14.12		
+HGNC:42623	RN7SKP5	RNA, 7SK small nuclear pseudogene 5	Approved			13q14.13		
+HGNC:42624	RN7SKP6	RNA, 7SK small nuclear pseudogene 6	Approved			13q21.1		
+HGNC:42625	RN7SKP7	RNA, 7SK small nuclear pseudogene 7	Approved			13q32.1		
+HGNC:42626	RN7SKP8	RNA, 7SK small nuclear pseudogene 8	Approved			13q32.2		
+HGNC:42627	RN7SKP9	RNA, 7SK small nuclear pseudogene 9	Approved			13q32.3		
+HGNC:42628	RN7SKP10	RNA, 7SK small nuclear pseudogene 10	Approved			13q34		
+HGNC:46065	RN7SL49P	RNA, 7SL, cytoplasmic 49, pseudogene	Approved			13q14.12		
+HGNC:46076	RN7SL60P	RNA, 7SL, cytoplasmic 60, pseudogene	Approved			13q32.3		
+HGNC:46180	RN7SL164P	RNA, 7SL, cytoplasmic 164, pseudogene	Approved			13q32.1		
+HGNC:46182	RN7SL166P	RNA, 7SL, cytoplasmic 166, pseudogene	Approved			13q12.11		
+HGNC:46288	RN7SL272P	RNA, 7SL, cytoplasmic 272, pseudogene	Approved			13q12.2		
+HGNC:46304	RN7SL288P	RNA, 7SL, cytoplasmic 288, pseudogene	Approved			13q14.13		
+HGNC:46336	RN7SL320P	RNA, 7SL, cytoplasmic 320, pseudogene	Approved			13q14.3		
+HGNC:46391	RN7SL375P	RNA, 7SL, cytoplasmic 375, pseudogene	Approved			13q21.2		
+HGNC:46429	RN7SL413P	RNA, 7SL, cytoplasmic 413, pseudogene	Approved			13q14.3		
+HGNC:46531	RN7SL515P	RNA, 7SL, cytoplasmic 515, pseudogene	Approved			13q14.11		
+HGNC:46587	RN7SL571P	RNA, 7SL, cytoplasmic 571, pseudogene	Approved			13q22.2		
+HGNC:46601	RN7SL585P	RNA, 7SL, cytoplasmic 585, pseudogene	Approved			13q32.1		
+HGNC:46613	RN7SL597P	RNA, 7SL, cytoplasmic 597, pseudogene	Approved			13q14.11		
+HGNC:46634	RN7SL618P	RNA, 7SL, cytoplasmic 618, pseudogene	Approved			13q14.3		
+HGNC:46716	RN7SL700P	RNA, 7SL, cytoplasmic 700, pseudogene	Approved			13q14.2		
+HGNC:46757	RN7SL741P	RNA, 7SL, cytoplasmic 741, pseudogene	Approved			13q12.13		
+HGNC:46777	RN7SL761P	RNA, 7SL, cytoplasmic 761, pseudogene	Approved			13q21.33		
+HGNC:46782	RN7SL766P	RNA, 7SL, cytoplasmic 766, pseudogene	Approved			13q12.11		
+HGNC:46799	RN7SL783P	RNA, 7SL, cytoplasmic 783, pseudogene	Approved			13q34		
+HGNC:46826	RN7SL810P	RNA, 7SL, cytoplasmic 810, pseudogene	Approved			13q22.3		
+HGNC:44282	RNA5-8S1	RNA, 5.8S ribosomal 1	Approved			13p12		
+HGNC:42600	RNA5SP24	RNA, 5S ribosomal pseudogene 24	Approved	RN5S24		13q12.11		
+HGNC:42601	RNA5SP25	RNA, 5S ribosomal pseudogene 25	Approved	RN5S25		13q12.11		
+HGNC:42602	RNA5SP26	RNA, 5S ribosomal pseudogene 26	Approved	RN5S26		13q13.3		
+HGNC:42603	RNA5SP27	RNA, 5S ribosomal pseudogene 27	Approved	RN5S27		13q14.13		
+HGNC:42604	RNA5SP28	RNA, 5S ribosomal pseudogene 28	Approved	RN5S28		13q14.3		
+HGNC:42605	RNA5SP29	RNA, 5S ribosomal pseudogene 29	Approved	RN5S29		13q14.3		
+HGNC:42606	RNA5SP30	RNA, 5S ribosomal pseudogene 30	Approved	RN5S30		13q21.1		
+HGNC:42607	RNA5SP31	RNA, 5S ribosomal pseudogene 31	Approved	RN5S31		13q21.2		
+HGNC:42609	RNA5SP33	RNA, 5S ribosomal pseudogene 33	Approved	RN5S33		13q31.1		
+HGNC:42610	RNA5SP34	RNA, 5S ribosomal pseudogene 34	Approved	RN5S34		13q31.3		
+HGNC:42611	RNA5SP35	RNA, 5S ribosomal pseudogene 35	Approved	RN5S35		13q31.3		
+HGNC:42612	RNA5SP36	RNA, 5S ribosomal pseudogene 36	Approved	RN5S36		13q32.1		
+HGNC:42613	RNA5SP37	RNA, 5S ribosomal pseudogene 37	Approved	RN5S37		13q32.1		
+HGNC:42614	RNA5SP38	RNA, 5S ribosomal pseudogene 38	Approved	RN5S38		13q33.2		
+HGNC:42615	RNA5SP39	RNA, 5S ribosomal pseudogene 39	Approved	RN5S39		13q33.3		
+HGNC:44278	RNA18S1	RNA, 18S ribosomal 1	Approved			13p12		
+HGNC:44286	RNA28S1	RNA, 28S ribosomal 1	Approved			13p12		
+HGNC:44274	RNA45S1	RNA, 45S pre-ribosomal 1	Approved			13p12		
+HGNC:25671	RNASEH2B	ribonuclease H2 subunit B	Approved	DLEU8, AGS2	FLJ11712	13q14.3	AK021774	NM_024570
+HGNC:39967	RNASEH2B-AS1	RNASEH2B antisense RNA 1	Approved			13q14.3		
+HGNC:10069	RNF6	ring finger protein 6	Approved		DKFZp686P0776	13q12.13	AJ010346	NM_005977
+HGNC:10060	RNF17	ring finger protein 17	Approved	TDRD4	Mmip-2, SPATA23, FLJ11045	13q12.12	AF285602, AK001907	NM_031994
+HGNC:17267	RNF113B	ring finger protein 113B	Approved	ZNF183L1	RNF161	13q32.2	AF539427	NM_178861
+HGNC:20308	RNF219	ring finger protein 219	Approved	C13orf7	FLJ13449	13q31.1	BC028586	NM_024546
+HGNC:42700	RNF219-AS1	RNF219 antisense RNA 1	Approved	POU4F1-AS1		13q22.3-q31.1		
+HGNC:10082	RNR1	RNA, ribosomal 45S cluster 1	Approved			13p12		
+HGNC:39890	RNU1-16P	RNA, U1 small nuclear 16, pseudogene	Approved		U1.64	13q34		
+HGNC:42504	RNU1-24P	RNA, U1 small nuclear 24, pseudogene	Approved		U1.41	13q33.1		
+HGNC:42506	RNU2-6P	RNA, U2 small nuclear 6, pseudogene	Approved			13q14.13		
+HGNC:42505	RNU2-7P	RNA, U2 small nuclear 7, pseudogene	Approved			13q12.11		
+HGNC:42507	RNU4-9P	RNA, U4 small nuclear 9, pseudogene	Approved			13q12.11		
+HGNC:42508	RNU4-10P	RNA, U4 small nuclear 10, pseudogene	Approved			13q22.1		
+HGNC:42575	RNU4ATAC3P	RNA, U4atac small nuclear 3, pseudogene	Approved			13q31.3		
+HGNC:42521	RNU5A-4P	RNA, U5A small nuclear 4, pseudogene	Approved			13q13.2		
+HGNC:34282	RNU6-38P	RNA, U6 small nuclear 38, pseudogene	Approved	RNU6-38		13q22.2		
+HGNC:42542	RNU6-52P	RNA, U6 small nuclear 52, pseudogene	Approved	RNU6-52		13q12.11		NR_046927
+HGNC:42543	RNU6-53P	RNA, U6 small nuclear 53, pseudogene	Approved	RNU6-53		13q12.3		NR_046928
+HGNC:42544	RNU6-54P	RNA, U6 small nuclear 54, pseudogene	Approved	RNU6-54		13q21.33		
+HGNC:42545	RNU6-55P	RNA, U6 small nuclear 55, pseudogene	Approved	RNU6-55		13q11		NR_046929
+HGNC:42546	RNU6-56P	RNA, U6 small nuclear 56, pseudogene	Approved	RNU6-56		13q13.3		NR_046930
+HGNC:42547	RNU6-57P	RNA, U6 small nuclear 57, pseudogene	Approved	RNU6-57		13q14.11		NR_046931
+HGNC:42548	RNU6-58P	RNA, U6 small nuclear 58, pseudogene	Approved	RNU6-58		13q12.12		NR_046932
+HGNC:42549	RNU6-59P	RNA, U6 small nuclear 59, pseudogene	Approved	RNU6-59		13q12.11		NR_046933
+HGNC:42550	RNU6-60P	RNA, U6 small nuclear 60, pseudogene	Approved	RNU6-60		13q14.2		
+HGNC:42551	RNU6-61P	RNA, U6 small nuclear 61, pseudogene	Approved	RNU6-61		13q31.1		
+HGNC:42552	RNU6-62P	RNA, U6 small nuclear 62, pseudogene	Approved	RNU6-62		13q32.1		
+HGNC:42553	RNU6-63P	RNA, U6 small nuclear 63, pseudogene	Approved	RNU6-63		13q12.2		NR_046934
+HGNC:42554	RNU6-64P	RNA, U6 small nuclear 64, pseudogene	Approved	RNU6-64		13q12.3		NR_046935
+HGNC:42555	RNU6-65P	RNA, U6 small nuclear 65, pseudogene	Approved	RNU6-65		13q14.3		
+HGNC:42556	RNU6-66P	RNA, U6 small nuclear 66, pseudogene	Approved	RNU6-66		13q22.1		NR_046936
+HGNC:42557	RNU6-67P	RNA, U6 small nuclear 67, pseudogene	Approved	RNU6-67		13q31.1		NR_046937
+HGNC:42558	RNU6-68P	RNA, U6 small nuclear 68, pseudogene	Approved	RNU6-68		13q14.13		NR_046938
+HGNC:42559	RNU6-69P	RNA, U6 small nuclear 69, pseudogene	Approved	RNU6-69		13q14.12		NR_046939
+HGNC:42560	RNU6-70P	RNA, U6 small nuclear 70, pseudogene	Approved	RNU6-70		13q12.2		
+HGNC:42561	RNU6-71P	RNA, U6 small nuclear 71, pseudogene	Approved	RNU6-71		13q13.3		NR_046940
+HGNC:42562	RNU6-72P	RNA, U6 small nuclear 72, pseudogene	Approved	RNU6-72		13q31.1		NR_046941
+HGNC:42563	RNU6-73P	RNA, U6 small nuclear 73, pseudogene	Approved	RNU6-73		13q12.2		
+HGNC:42564	RNU6-74P	RNA, U6 small nuclear 74, pseudogene	Approved	RNU6-74		13q14.11		
+HGNC:42565	RNU6-75P	RNA, U6 small nuclear 75, pseudogene	Approved	RNU6-75		13q31.3		NR_046942
+HGNC:42566	RNU6-76P	RNA, U6 small nuclear 76, pseudogene	Approved	RNU6-76, RNU6-1002P		13q11		NR_046943
+HGNC:42567	RNU6-77P	RNA, U6 small nuclear 77, pseudogene	Approved	RNU6-77		13q31.1		
+HGNC:42568	RNU6-78P	RNA, U6 small nuclear 78, pseudogene	Approved	RNU6-78		13q12.13		NR_046944
+HGNC:42569	RNU6-79P	RNA, U6 small nuclear 79, pseudogene	Approved	RNU6-79		13q22.1		NR_046945
+HGNC:42570	RNU6-80P	RNA, U6 small nuclear 80, pseudogene	Approved	RNU6-80		13q21.33		
+HGNC:42571	RNU6-81P	RNA, U6 small nuclear 81, pseudogene	Approved	RNU6-81		13q21.31		NR_046946
+HGNC:42572	RNU6-82P	RNA, U6 small nuclear 82, pseudogene	Approved	RNU6-82		13q12.2		NR_046947
+HGNC:42573	RNU6-83P	RNA, U6 small nuclear 83, pseudogene	Approved	RNU6-83		13q32.3		NR_046948
+HGNC:42616	RNU7-87P	RNA, U7 small nuclear 87 pseudogene	Approved			13q21.32		
+HGNC:42617	RNU7-88P	RNA, U7 small nuclear 88 pseudogene	Approved			13q21.2		
+HGNC:42618	RNU7-89P	RNA, U7 small nuclear 89 pseudogene	Approved			13q22.1		
+HGNC:42478	RNY1P1	RNA, Ro-associated Y1 pseudogene 1	Approved			13q12.2		
+HGNC:42479	RNY1P2	RNA, Ro-associated Y1 pseudogene 2	Approved			13q33.1		
+HGNC:42480	RNY1P3	RNA, Ro-associated Y1 pseudogene 3	Approved			13q12.13		
+HGNC:42481	RNY1P4	RNA, Ro-associated Y1 pseudogene 4	Approved			13q13.1		
+HGNC:42482	RNY1P5	RNA, Ro-associated Y1 pseudogene 5	Approved			13q22.1		
+HGNC:42483	RNY1P6	RNA, Ro-associated Y1 pseudogene 6	Approved			13q14.3		
+HGNC:42484	RNY1P7	RNA, Ro-associated Y1 pseudogene 7	Approved			13q12.12		
+HGNC:42485	RNY1P8	RNA, Ro-associated Y1 pseudogene 8	Approved			13q22.1		
+HGNC:42486	RNY3P2	RNA, Ro-associated Y3 pseudogene 2	Approved			13q14.2		
+HGNC:42487	RNY3P3	RNA, Ro-associated Y3 pseudogene 3	Approved			13q22.3		
+HGNC:42488	RNY3P4	RNA, Ro-associated Y3 pseudogene 4	Approved			13q12.12		
+HGNC:42489	RNY3P5	RNA, Ro-associated Y3 pseudogene 5	Approved			13q21.2		
+HGNC:42490	RNY3P6	RNA, Ro-associated Y3 pseudogene 6	Approved			13q32.3		
+HGNC:42491	RNY3P7	RNA, Ro-associated Y3 pseudogene 7	Approved			13q22.3		
+HGNC:42492	RNY3P8	RNA, Ro-associated Y3 pseudogene 8	Approved			13q32.1		
+HGNC:42493	RNY3P9	RNA, Ro-associated Y3 pseudogene 9	Approved			13q14.11		
+HGNC:42494	RNY3P10	RNA, Ro-associated Y3 pseudogene 10	Approved			13q21.33		
+HGNC:34058	RNY4P9	RNA, Ro-associated Y4 pseudogene 9	Approved			13q14.3		
+HGNC:34064	RNY4P14	RNA, Ro-associated Y4 pseudogene 14	Approved			13q13.3		
+HGNC:42474	RNY4P24	RNA, Ro-associated Y4 pseudogene 24	Approved			13q14.3		
+HGNC:42495	RNY4P27	RNA, Ro-associated Y4 pseudogene 27	Approved			13q32.1		
+HGNC:42496	RNY4P28	RNA, Ro-associated Y4 pseudogene 28	Approved			13q21.2		
+HGNC:42497	RNY4P29	RNA, Ro-associated Y4 pseudogene 29	Approved			13q21.1		
+HGNC:42498	RNY4P30	RNA, Ro-associated Y4 pseudogene 30	Approved			13q14.2		
+HGNC:42499	RNY4P31	RNA, Ro-associated Y4 pseudogene 31	Approved			13q21.2		NG_032104
+HGNC:34089	RNY5P8	RNA, Ro-associated Y5 pseudogene 8	Approved			13q33.1		
+HGNC:42036	RPL5P31	ribosomal protein L5 pseudogene 31	Approved			13q14.3		
+HGNC:35482	RPL7AP61	ribosomal protein L7a pseudogene 61	Approved			13q32.2		NG_010928
+HGNC:41968	RPL7AP73	ribosomal protein L7a pseudogene 73	Approved			13q12.12		
+HGNC:39455	RPL7L1P1	ribosomal protein L7 like 1 pseudogene 1	Approved			13q31.3		NG_009895
+HGNC:39488	RPL7L1P6	ribosomal protein L7 like 1 pseudogene 6	Approved			13q32.3		NG_024947
+HGNC:39811	RPL7L1P12	ribosomal protein L7 like 1 pseudogene 12	Approved			13q32.3		
+HGNC:36143	RPL7P44	ribosomal protein L7 pseudogene 44	Approved			13q22.3		NG_010043
+HGNC:35522	RPL7P45	ribosomal protein L7 pseudogene 45	Approved			13q33.2		NG_010625
+HGNC:36168	RPL12P34	ribosomal protein L12 pseudogene 34	Approved			13q21.33		NG_010251
+HGNC:36981	RPL13AP25	ribosomal protein L13a pseudogene 25	Approved			13q14.3		NG_012730
+HGNC:36515	RPL15P18	ribosomal protein L15 pseudogene 18	Approved			13q32.3		NG_010118
+HGNC:49100	RPL17P51	ribosomal protein L17 pseudogene 51	Approved			13q14.11		
+HGNC:39850	RPL18AP17	ribosomal protein L18a pseudogene 17	Approved			13q21.33		
+HGNC:35957	RPL18P10	ribosomal protein L18 pseudogene 10	Approved			13q14.2		NG_010943
+HGNC:10313	RPL21	ribosomal protein L21	Approved		L21, FLJ27458, MGC71252, MGC104274, MGC104275, DKFZp686C06101	13q12.2	AB007176	NM_000982
+HGNC:36313	RPL21P107	ribosomal protein L21 pseudogene 107	Approved			13q34		NG_009801
+HGNC:35496	RPL21P108	ribosomal protein L21 pseudogene 108	Approved			13q22.1		NG_010398
+HGNC:36388	RPL21P109	ribosomal protein L21 pseudogene 109	Approved			13q21.33		NG_010414
+HGNC:35627	RPL21P110	ribosomal protein L21 pseudogene 110	Approved			13q21.33		NG_010419
+HGNC:36564	RPL21P111	ribosomal protein L21 pseudogene 111	Approved			13q31.1		NG_010423
+HGNC:36526	RPL21P112	ribosomal protein L21 pseudogene 112	Approved			13q32.1		NG_009638
+HGNC:36625	RPL23AP69	ribosomal protein L23a pseudogene 69	Approved			13q12.13		NG_010001
+HGNC:51632	RPL23AP97	ribosomal protein L23a pseudogene 97	Approved			13q34		
+HGNC:36249	RPL26P34	ribosomal protein L26 pseudogene 34	Approved			13q12.12		NG_010568
+HGNC:36544	RPL27AP8	ribosomal protein L27a pseudogene 8	Approved			13q14.2		NG_011272
+HGNC:36842	RPL29P28	ribosomal protein L29 pseudogene 28	Approved			13q13.3		NG_011177
+HGNC:36577	RPL29P29	ribosomal protein L29 pseudogene 29	Approved			13q31.2		NG_010587
+HGNC:35749	RPL31P53	ribosomal protein L31 pseudogene 53	Approved			13q21.1		NG_010607
+HGNC:36077	RPL31P54	ribosomal protein L31 pseudogene 54	Approved			13q22.3		NG_010636
+HGNC:36328	RPL32P28	ribosomal protein L32 pseudogene 28	Approved			13q21.31		NG_010395
+HGNC:36100	RPL34P26	ribosomal protein L34 pseudogene 26	Approved			13q14.3		NG_010834
+HGNC:36369	RPL34P27	ribosomal protein L34 pseudogene 27	Approved			13q12.13		NG_011246
+HGNC:36284	RPL35AP31	ribosomal protein L35a pseudogene 31	Approved			13q21.33		NG_010117
+HGNC:35740	RPL35P7	ribosomal protein L35 pseudogene 7	Approved			13q33.3		NG_010519
+HGNC:39402	RPL35P9	ribosomal protein L35 pseudogene 9	Approved			13q33.3		
+HGNC:42648	RPL36P19	ribosomal protein L36 pseudogene 19	Approved			13q14.11		
+HGNC:36256	RPL37P21	ribosomal protein L37 pseudogene 21	Approved			13q21.33		NG_010821
+HGNC:35808	RPL39P29	ribosomal protein L39 pseudogene 29	Approved			13q33.1		NG_010848
+HGNC:41973	RPLP1P13	ribosomal protein lateral stalk subunit P1 pseudogene 13	Approved			13q12.12		
+HGNC:39770	RPP40P2	ribonuclease P/MRP subunit p40 pseudogene 2	Approved			13q21.2		NG_024931
+HGNC:36761	RPS3AP44	ribosomal protein S3a pseudogene 44	Approved			13q12.13		NG_010660
+HGNC:42004	RPS3AP52	ribosomal protein S3a pseudogene 52	Approved			13q21.33		
+HGNC:36365	RPS4XP16	ribosomal protein S4X pseudogene 16	Approved	RPS4P16		13q14.3		NG_010070
+HGNC:39581	RPS6P23	ribosomal protein S6 pseudogene 23	Approved			13q32.3		
+HGNC:39903	RPS7P10	ribosomal protein S7 pseudogene 10	Approved			13q12.11		
+HGNC:35906	RPS10P21	ribosomal protein S10 pseudogene 21	Approved			13q21.33		NG_011279
+HGNC:35573	RPS12P23	ribosomal protein S12 pseudogene 23	Approved			13q12.11		NG_010945
+HGNC:35561	RPS12P24	ribosomal protein S12 pseudogene 24	Approved			13q13.3		NG_010988
+HGNC:36444	RPS20P32	ribosomal protein S20 pseudogene 32	Approved			13q12.13		NG_010130
+HGNC:39705	RPS21P8	ribosomal protein S21 pseudogene 8	Approved			13q12.13		
+HGNC:36368	RPS26P47	ribosomal protein S26 pseudogene 47	Approved			13q32.3		NG_011410
+HGNC:36938	RPS28P8	ribosomal protein S28 pseudogene 8	Approved			13q14.11		NG_010096
+HGNC:36641	RPSAP53	ribosomal protein SA pseudogene 53	Approved			13q21.32		NG_010038
+HGNC:36373	RPSAP54	ribosomal protein SA pseudogene 54	Approved			13q12.11		NG_011364
+HGNC:20420	RUBCNL	RUN and cysteine rich domain containing beclin 1 interacting protein like	Approved	C13orf18, KIAA0226L	FLJ21562	13q14.13	AK025215	NM_025113
+HGNC:17318	RXFP2	relaxin/insulin like family peptide receptor 2	Approved	LGR8	GREAT, GPR106, INSL3R, RXFPR2	13q13.1	AF403384	NM_130806
+HGNC:10519	SACS	sacsin molecular chaperone	Approved		ARSACS, KIAA0730, DKFZp686B15167, DNAJC29, SPAX6, PPP1R138	13q12.12	AF193556	NM_014363
+HGNC:39835	SACS-AS1	SACS antisense RNA 1	Approved			13q12.12		
+HGNC:39821	SALL4P4	spalt like transcription factor 4 pseudogene 4	Approved			13q34		
+HGNC:10530	SAP18	Sin3A associated protein 18	Approved		SAP18p, 2HOR0202, MGC27131	13q12.11	U96915	NM_005870
+HGNC:42037	SCAND3P1	SCAN domain containing 3 pseudogene 1	Approved			13q13.3		
+HGNC:10573	SCEL	sciellin	Approved		FLJ21667, MGC22531	13q22.3	AF045941	NM_144777
+HGNC:39895	SCEL-AS1	SCEL antisense RNA 1	Approved			13q22.3		
+HGNC:10655	SCZD7	schizophrenia disorder 7	Approved			13q32		
+HGNC:39261	SDAD1P4	SDA1 domain containing 1 pseudogene 4	Approved			13q12.12		
+HGNC:20607	SERP2	stress associated endoplasmic reticulum protein family member 2	Approved	C13orf21	bA269C23.1	13q14.11	BC029067	NM_001010897
+HGNC:24774	SERPINE3	serpin family E member 3	Approved			13q14.3	AX772926	NM_001101320
+HGNC:33792	SERTM1	serine rich and transmembrane domain containing 1	Approved	C13orf36		13q13.3		NM_203451
+HGNC:30088	SETD8P1	SET domain containing 8 pseudogene 1	Approved		SET07p	13q11		
+HGNC:20263	SETDB2	SET domain bifurcated 2	Approved	C13orf4	CLLD8, CLLL8, KMT1F	13q14.2	AF334407	NM_031915
+HGNC:10809	SGCG	sarcoglycan gamma	Approved	DMDA1, MAM, LGMD2C	SCARMD2, DAGA4, SCG3, DMDA, TYPE, A4, MGC130048	13q12.12	U34976	NM_000231
+HGNC:20366	SHISA2	shisa family member 2	Approved	C13orf13, TMEM46	bA398O19.2, PRO28631, WGAR9166, hShisa	13q12.13		NM_001007538
+HGNC:30553	SIAH3	siah E3 ubiquitin protein ligase family member 3	Approved		FLJ39203	13q14.13		NM_198849
+HGNC:20262	SKA3	spindle and kinetochore associated complex subunit 3	Approved	C13orf3	MGC4832, RAMA1	13q12.11	AF361358	NM_145061
+HGNC:26387	SLAIN1	SLAIN motif family member 1	Approved	C13orf32	FLJ30046	13q22.3	AK054608	NM_144595
+HGNC:11057	SLC7A1	solute carrier family 7 member 1	Approved	ERR, ATRC1	CAT-1, HCAT1, REC1L	13q12.3	AF078107	NM_003045
+HGNC:10906	SLC10A2	solute carrier family 10 member 2	Approved	ASBT, ISBT		13q33.1	U10417	
+HGNC:10920	SLC15A1	solute carrier family 15 member 1	Approved		PEPT1, HPECT1, HPEPT1	13q32.2-q32.3	U13173	NM_005073
+HGNC:35471	SLC25A5P4	solute carrier family 25 member 5 pseudogene 4	Approved			13q21.1		NG_009271
+HGNC:10985	SLC25A15	solute carrier family 25 member 15	Approved	ORNT1, HHH	ORC1, D13S327	13q14.11	AF112968	NM_014252
+HGNC:39843	SLC25A15P2	solute carrier family 25 member 15 pseudogene 2	Approved			13q12.11		
+HGNC:39844	SLC25A15P3	solute carrier family 25 member 15 pseudogene 3	Approved			13q12.13		
+HGNC:27371	SLC25A30	solute carrier family 25 member 30	Approved			13q14.13	AK074457	XM_170736
+HGNC:42795	SLC25A30-AS1	SLC25A30 antisense RNA 1	Approved			13q14.13		
+HGNC:42046	SLC35E1P1	solute carrier family 35 member E1 pseudogene 1	Approved			13q12.11		
+HGNC:27501	SLC46A3	solute carrier family 46 member 3	Approved		DKFZp686A1775, FLJ42613	13q12.3		NM_181785
+HGNC:20297	SLITRK1	SLIT and NTRK like family member 1	Approved	LRRC12	KIAA1910	13q31.1	AB067497	NM_052910
+HGNC:20295	SLITRK5	SLIT and NTRK like family member 5	Approved	LRRC11	bA364G4.2, KIAA0918	13q31.2	AB020725	
+HGNC:23503	SLITRK6	SLIT and NTRK like family member 6	Approved		FLJ22774	13q31.1	AK026427	NM_032229
+HGNC:6774	SMAD9	SMAD family member 9	Approved	MADH6, MADH9	SMAD8, SMAD8/9	13q13.3		NM_005905
+HGNC:39963	SMAD9-IT1	SMAD9 intronic transcript 1	Approved	SMAD9-AS1		13q13.3		
+HGNC:39734	SMARCE1P5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1 pseudogene 5	Approved			13q14.11		
+HGNC:28776	SMIM2	small integral membrane protein 2	Approved	C13orf44	MGC5590	13q14.11	BC000868	
+HGNC:42674	SMIM2-AS1	SMIM2 antisense RNA 1	Approved	C13orf44-AS1		13q14.11		
+HGNC:41492	SMIM2-IT1	SMIM2 intronic transcript 1	Approved	C13orf44-IT1		13q14.11	AI476676	
+HGNC:39674	SMPD4P2	sphingomyelin phosphodiesterase 4 pseudogene 2	Approved			13q12.11		
+HGNC:32617	SNORA27	small nucleolar RNA, H/ACA box 27	Approved		ACA27	13q12.2	AJ609439	NR_002575
+HGNC:32621	SNORA31	small nucleolar RNA, H/ACA box 31	Approved		ACA31, SNORA31A	13q14.13	AJ609441	NR_002967
+HGNC:52201	SNORA31B	small nucleolar RNA, H/ACA box 31B	Approved			13q14.13		NR_145726
+HGNC:51400	SNORA107	small nucleolar RNA, H/ACA box 107	Approved			13q31.1		NR_132852
+HGNC:52246	SNORD13G	small nucleolar RNA, C/D box 13G	Approved			13q32.1		NR_145733
+HGNC:52226	SNORD31B	small nucleolar RNA, C/D box 31B	Approved			13q33.3		NR_145739
+HGNC:10099	SNORD102	small nucleolar RNA, C/D box 102	Approved	RNU102	U102	13q12.2	AY349603	NR_002574
+HGNC:39666	SNRPFP3	small nuclear ribonucleoprotein polypeptide F pseudogene 3	Approved			13q21.33		
+HGNC:39330	SNRPGP11	small nuclear ribonucleoprotein polypeptide G pseudogene 11	Approved			13q14.3		
+HGNC:42039	SNRPGP14	small nuclear ribonucleoprotein polypeptide G pseudogene 14	Approved			13q14.2		
+HGNC:39634	SNX18P26	sorting nexin 18 pseudogene 26	Approved			13q11		
+HGNC:38115	SNX19P2	sorting nexin 19 pseudogene 2	Approved			13q11		NG_006945
+HGNC:26026	SOHLH2	spermatogenesis and oogenesis specific basic helix-loop-helix 2	Approved		FLJ20449, TEB1, bHLHe81, SPATA28	13q13.3	AK000456	NM_017826
+HGNC:11189	SOX1	SRY-box 1	Approved			13q34		NM_005986
+HGNC:11197	SOX21	SRY-box 21	Approved		SOX25	13q32.1	AF107044	NM_007084
+HGNC:39807	SOX21-AS1	SOX21 antisense RNA 1 (head to head)	Approved			13q32.1		NR_046514
+HGNC:35430	SP3P	Sp3 transcription factor pseudogene	Approved			13q31.2	BC036697	NG_004748
+HGNC:29575	SPACA7	sperm acrosome associated 7	Approved	C13orf28		13q34	BC016750	NM_145248
+HGNC:39446	SPATA2P1	spermatogenesis associated 2 pseudogene 1	Approved			13q21.1		
+HGNC:23222	SPATA13	spermatogenesis associated 13	Approved		FLJ31208, ARHGEF29	13q12.12	AK055770	NM_153023
+HGNC:39905	SPATA13-AS1	SPATA13 antisense RNA 1	Approved			13q12.12		
+HGNC:30720	SPERT	spermatid associated	Approved		NURIT, CBY2	13q14.13	AK093129	NM_152719
+HGNC:18514	SPG20	spastic paraplegia 20 (Troyer syndrome)	Approved		KIAA0610, TAHCCP1	13q13.3	AB011182	
+HGNC:39933	SPG20-AS1	SPG20 antisense RNA 1	Approved	C13orf43, SPG20OS		13q13.3		NR_045180
+HGNC:22993	SPG24	spastic paraplegia 24 (autosomal recessive)	Approved			13q14		
+HGNC:11270	SPRY2	sprouty RTK signaling antagonist 2	Approved		hSPRY2	13q31.1	AF039843	
+HGNC:14297	SPRYD7	SPRY domain containing 7	Approved	C13orf1	CLLD6	13q14.2	AF055016	NM_020456
+HGNC:39672	SPTLC1P5	serine palmitoyltransferase long chain base subunit 1 pseudogene 5	Approved			13q22.3		
+HGNC:49099	SQSTM1P1	sequestosome 1 pseudogene 1	Approved			13q21.31		
+HGNC:49107	SRGNP1	serglycin pseudogene 1	Approved			13q22.3		
+HGNC:39417	SRSF1P1	serine and arginine rich splicing factor 1 pseudogene 1	Approved			13q21.33		NG_011455
+HGNC:39274	SSR1P2	signal sequence receptor subunit 1 pseudogene 2	Approved			13q22.2		
+HGNC:39660	ST6GALNAC4P1	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 4 pseudogene 1	Approved			13q12.11		
+HGNC:18487	ST13P4	ST13, Hsp70 interacting protein pseudogene 4	Approved	FAM10A4	FAM10A4P	13q14.2	XM_015959	NR_002183
+HGNC:19164	STARD13	StAR related lipid transfer domain containing 13	Approved	LINC00464	GT650, DLC2, ARHGAP37	13q13.1	AL049801	NM_001243466
+HGNC:40873	STARD13-AS	STARD13 antisense RNA	Approved	STARD13-AS2		13q13.1		NR_046693
+HGNC:41453	STARD13-IT1	STARD13 intronic transcript 1	Approved			13q13.1		
+HGNC:11360	STARP1	steroidogenic acute regulatory protein pseudogene 1	Approved		STARD1P1	13q21.32	U29106	
+HGNC:11403	STK24	serine/threonine kinase 24	Approved		MST-3, MST3, MST3B, STK3, STE20	13q32.2	AF024636	NM_003576
+HGNC:39935	STK24-AS1	STK24 antisense RNA 1	Approved			13q32.2		
+HGNC:19420	STOML3	stomatin like 3	Approved		SRO, Epb7.2l	13q13.2	BC025760	
+HGNC:11448	SUCLA2	succinate-CoA ligase ADP-forming beta subunit	Approved			13q14.2	AF058953	
+HGNC:39965	SUCLA2-AS1	SUCLA2 antisense RNA 1	Approved			13q14.2		
+HGNC:16987	SUGT1	SGT1 homolog, MIS12 kinetochore complex assembly cochaperone	Approved		SGT1	13q14.3	AF068289	NM_001130912
+HGNC:20513	SUGT1P3	SGT1 homolog, MIS12 kinetochore complex assembly cochaperone pseudogene 3	Approved	SUGT1L1		13q14.11		
+HGNC:20596	SUPT20H	SPT20 homolog, SAGA complex component	Approved	C13orf19, FAM48A	SPT20, bA421P11.4, P38IP	13q13.3	AF093250	NM_017569
+HGNC:39848	TARDBPP2	TAR DNA binding protein pseudogene 2	Approved			13q21.2		
+HGNC:39256	TATDN2P3	TatD DNase domain containing 2 pseudogene 3	Approved			13q12.12		NG_024898
+HGNC:19165	TBC1D4	TBC1 domain family member 4	Approved		KIAA0603, AS160, DKFZp779C0666	13q22.2	AB011175	NM_014832
+HGNC:39582	TCEAL4P1	transcription elongation factor A like 4 pseudogene 1	Approved			13q13.3		
+HGNC:20612	TDRD3	tudor domain containing 3	Approved		FLJ21007	13q21.2	AK023578	NM_030794
+HGNC:39686	TERF1P5	telomeric repeat binding factor 1 pseudogene 5	Approved			13q11		
+HGNC:33586	TET1P1	tet methylcytosine dioxygenase 1 pseudogene 1	Approved	CXXC6P1		13q31.2		NG_006594
+HGNC:28622	TEX26	testis expressed 26	Approved	C13orf26	MGC40178	13q12.3	BC030277	NM_152325
+HGNC:42784	TEX26-AS1	TEX26 antisense RNA 1	Approved	LINC00447		13q12.3	BC042736	NR_038288
+HGNC:20370	TEX29	testis expressed 29	Approved	C13orf16	bA474D23.1, MGC35169	13q34	BC029889	NM_152324
+HGNC:25188	TEX30	testis expressed 30	Approved	C13orf27		13q33.1	AF070559	NM_138779
+HGNC:11749	TFDP1	transcription factor Dp-1	Approved		Dp-1, DRTF1, DP1, DILC	13q34	BC011685	NM_007111
+HGNC:20324	TGDS	TDP-glucose 4,6-dehydratase	Approved		TDPGD, SDR2E1	13q32.1	AF048686	NM_014305
+HGNC:39570	THAP12P6	THAP domain containing 12 pseudogene 6	Approved	PRKRIRP6		13q12.13		
+HGNC:39741	THAP12P10	THAP domain containing 12 pseudogene 10	Approved	PRKRIRP10		13q14.2		NG_024925
+HGNC:17754	THSD1	thrombospondin type 1 domain containing 1	Approved		TMTSP	13q14.3	AK096289	
+HGNC:31375	THSD1P1	thrombospondin type 1 domain containing 1 pseudogene 1	Approved	THSD1P		13q14.2	AK027536	
+HGNC:39211	TIMM8BP1	translocase of inner mitochondrial membrane 8B pseudogene 1	Approved			13q12.3		
+HGNC:39930	TIMM9P3	TIMM9 pseudogene 3	Approved			13q14.13		
+HGNC:11865	TM9SF2	transmembrane 9 superfamily member 2	Approved		P76	13q32.3	U81006	
+HGNC:20329	TMCO3	transmembrane and coiled-coil domains 3	Approved	C13orf11	FLJ20623	13q34	BC012564	NM_017905
+HGNC:28297	TMEM255B	transmembrane protein 255B	Approved	FAM70B	MGC20579	13q34	BC018995	NM_182614
+HGNC:25904	TMTC4	transmembrane and tetratricopeptide repeat containing 4	Approved		FLJ14624, FLJ22153	13q32.3		NM_032813
+HGNC:11915	TNFRSF19	TNF receptor superfamily member 19	Approved		TAJ-alpha, TROY, TAJ, TRADE	13q12.12	AB040434	NM_018647
+HGNC:11926	TNFSF11	TNF superfamily member 11	Approved		TRANCE, RANKL, OPGL, ODF, CD254	13q14	AF013171	
+HGNC:11929	TNFSF13B	TNF superfamily member 13b	Approved	TNFSF20	BAFF, THANK, BLYS, TALL-1, TALL1, CD257	13q33.3	AF136293	
+HGNC:38739	TOMM22P3	TOMM22 pseudogene 3	Approved			13q13.1		
+HGNC:12016	TPP2	tripeptidyl peptidase 2	Approved		TPPII	13q33.1	M55169	
+HGNC:12022	TPT1	tumor protein, translationally-controlled 1	Approved		TCTP, fortilin	13q14.13	X16064	
+HGNC:43686	TPT1-AS1	TPT1 antisense RNA 1	Approved			13q14.13	AF318337	NR_024458
+HGNC:17299	TPTE2	transmembrane phosphoinositide 3-phosphatase and tensin homolog 2	Approved		TPIP	13q12.11	AJ421032	NM_199254
+HGNC:35196	TPTE2P1	transmembrane phosphoinositide 3-phosphatase and tensin homolog 2 pseudogene 1	Approved			13q12.13		
+HGNC:38076	TPTE2P2	transmembrane phosphoinositide 3-phosphatase and tensin homolog 2 pseudogene 2	Approved			13q14.3		
+HGNC:27345	TPTE2P3	transmembrane phosphoinositide 3-phosphatase and tensin homolog 2 pseudogene 3	Approved			13q14.3	BC041889	
+HGNC:42356	TPTE2P5	transmembrane phosphoinositide 3-phosphatase and tensin homolog 2 pseudogene 5	Approved			13q14.11		
+HGNC:42644	TPTE2P6	transmembrane phosphoinositide 3-phosphatase and tensin homolog 2 pseudogene 6	Approved			13q12.12		NR_002815
+HGNC:34564	TRE-CTC3-1	transfer RNA-Glu (CTC) 3-1	Approved	TRNAE4		13	HG983761	
+HGNC:35081	TRE-CTC4-1	transfer RNA-Glu (CTC) 4-1	Approved	TRNAE39P		13q21.1	HG983762	
+HGNC:34901	TRE-TTC1-2	transfer RNA-Glu (TTC) 1-2	Approved	TRNAE20, TRE-TTC1-1		13	HG983777	
+HGNC:34589	TRE-TTC2-1	transfer RNA-Glu (TTC) 2-1	Approved	TRNAE7		13	HG983779	
+HGNC:34814	TRF-GAA1-5	transfer RNA-Phe (GAA) 1-5	Approved	TRNAF6, TRF-GAA1-3		13	HG983962	
+HGNC:9976	TRIM13	tripartite motif containing 13	Approved	RFP2	Leu5, RNF77, DLEU5	13q14.2	AF220127	NM_001007278
+HGNC:38485	TRIM60P13	tripartite motif containing 60 pseudogene 13	Approved			13q31.2		
+HGNC:42010	TRIM60P19	tripartite motif containing 60 pseudogene 19	Approved			13q21.32		
+HGNC:34595	TRN-GTT2-4	transfer RNA-Asn (GTT) 2-4	Approved	TRNAN7		13	HG983633	
+HGNC:12336	TRPC4	transient receptor potential cation channel subfamily C member 4	Approved		HTRP4, TRP4	13q13.3	U40983	NM_003306
+HGNC:16826	TSC22D1	TSC22 domain family member 1	Approved	TGFB1I4	TSC22, MGC17597	13q14.11	AJ222700	NM_006022
+HGNC:43684	TSC22D1-AS1	TSC22D1 antisense RNA 1	Approved			13q14.11	BC040675	NR_038381
+HGNC:12408	TUBA3C	tubulin alpha 3c	Approved	TUBA2	bA408E5.3	13q12.11	AF005392	NM_006001
+HGNC:12415	TUBBP2	tubulin beta pseudogene 2	Approved			13q14.11		NG_011428
+HGNC:18598	TUBGCP3	tubulin gamma complex associated protein 3	Approved		GCP3, Spc98p, SPBC98	13q34	AF042378	NM_006322
+HGNC:39262	TULP3P1	tubby like protein 3 pseudogene 1	Approved			13q32.1		
+HGNC:49111	TUSC8	tumor suppressor candidate 8 (non-protein coding)	Approved	LINC01071	XLOC_010588	13q14.11	BC025370	NR_104174
+HGNC:39459	TXNL1P1	thioredoxin like 1 pseudogene 1	Approved			13q31.1		NG_024942
+HGNC:20486	UBAC2	UBA domain containing 2	Approved	PHGDHL1	FLJ30548, RP11-178C10.1	13q32.3	AK055110	NM_177967
+HGNC:42502	UBAC2-AS1	UBAC2 antisense RNA 1	Approved			13q32.3		
+HGNC:42645	UBBP5	ubiquitin B pseudogene 5	Approved			13q31.2		
+HGNC:39391	UBE2D3P4	ubiquitin conjugating enzyme E2 D3 pseudogene 4	Approved			13q31.1		
+HGNC:13477	UBE2L5P	ubiquitin conjugating enzyme E2 L5, pseudogene	Approved	UBE2L5		13q12.3	AL161893	NG_001319
+HGNC:12504	UBL3	ubiquitin like 3	Approved	PNSC1	HCG-1, DKFZP434K151, FLJ32018	13q12.3	AF044221	NM_007106
+HGNC:12515	UCHL3	ubiquitin C-terminal hydrolase L3	Approved			13q22.2	M30496	NM_006002
+HGNC:20597	UFM1	ubiquitin fold modifier 1	Approved	C13orf20	bA131P10.1	13q13.3	AF208844	NM_016617
+HGNC:15664	UGGT2	UDP-glucose glycoprotein glucosyltransferase 2	Approved	UGCGL2	FLJ11485, HUGT2, FLJ10873, MGC150689, MGC87276, MGC117360	13q32.1	AF227906	NM_020121
+HGNC:20332	UPF3A	UPF3 regulator of nonsense transcripts homolog A (yeast)	Approved		RENT3A, UPF3, HUPF3A	13q34	AF318575	
+HGNC:17785	URAD	ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase	Approved	PRHOXNB		13q12.2		
+HGNC:20485	USP12	ubiquitin specific peptidase 12	Approved	USP12L1		13q12.13	AL049221	NM_182488
+HGNC:39961	USP12-AS1	USP12 antisense RNA 1	Approved			13q12.13		
+HGNC:39962	USP12-AS2	USP12 antisense RNA 2 (head to head)	Approved			13q12.13		
+HGNC:42014	USP24P1	ubiquitin specific peptidase 24 pseudogene 1	Approved			13q12.11		
+HGNC:20294	USPL1	ubiquitin specific peptidase like 1	Approved	C13orf22	bA121O19.1, D13S106E	13q12.3	X59131	NM_005800
+HGNC:20321	UTP14C	UTP14, small subunit processome component homolog C (S. cerevisiae)	Approved	KIAA0266	2700066J21Rik	13q14.3	D87455	NM_021645
+HGNC:39680	VDAC1P12	voltage dependent anion channel 1 pseudogene 12	Approved			13q13.2		
+HGNC:30901	VENTXP2	VENT homeobox pseudogene 2	Approved			13q31.1		NG_002909
+HGNC:37378	VN1R58P	vomeronasal 1 receptor 58 pseudogene	Approved			13q11		NG_015668
+HGNC:37332	VN1R111P	vomeronasal 1 receptor 111 pseudogene	Approved			13q11		
+HGNC:20312	VPS36	vacuolar protein sorting 36 homolog	Approved	C13orf9	CGI-145, Eap45	13q14.3	AF151903	
+HGNC:29071	VWA8	von Willebrand factor A domain containing 8	Approved	KIAA0564		13q14.11	AB011136	NM_015058
+HGNC:44270	VWA8-AS1	VWA8 antisense RNA 1 (head to head)	Approved			13q14.11	AK092199, CA310831	NR_039974
+HGNC:12734	WASF3	WAS protein family member 3	Approved		WAVE3, SCAR3, KIAA0900	13q12.13	AB020707	
+HGNC:39841	WASF3-AS1	WASF3 antisense RNA 1	Approved			13q12.13		
+HGNC:12739	WBP4	WW domain binding protein 4	Approved		FBP21, MGC117310	13q14.11	AF071185	NM_007187
+HGNC:20482	WDFY2	WD repeat and FYVE domain containing 2	Approved		ZFYVE22	13q14.3	AF411978	NM_052950
+HGNC:42637	WDR95P	WD repeat domain 95, pseudogene	Approved			13q12.3		
+HGNC:17796	XPO4	exportin 4	Approved		FLJ13046, KIAA1721	13q12.11	AB051508	NM_022459
+HGNC:37116	ZAR1L	zygote arrest 1 like	Approved		Z3CXXC7	13q13.1		
+HGNC:20368	ZC3H13	zinc finger CCCH-type containing 13	Approved	KIAA0853	DKFZp434D1812	13q14.13	AB020660	NM_015070
+HGNC:39443	ZDHHC4P1	zinc finger DHHC-type containing 4 pseudogene 1	Approved			13q14.11		NG_024919
+HGNC:20749	ZDHHC20	zinc finger DHHC-type containing 20	Approved		FLJ25952, DHHC20	13q12.11	AK090979	NM_153251
+HGNC:39900	ZDHHC20-IT1	ZDHHC20 intronic transcript 1	Approved			13q12.11		
+HGNC:39776	ZDHHC20P4	zinc finger DHHC-type containing 20 pseudogene 4	Approved			13q21.33		
+HGNC:12873	ZIC2	Zic family member 2	Approved		HPE5	13q32.3	AF104902	NM_007129
+HGNC:20322	ZIC5	Zic family member 5	Approved			13q32.3	AF378304	NM_033132
+HGNC:12989	ZMYM2	zinc finger MYM-type containing 2	Approved	ZNF198	RAMP, FIM, MYM	13q12.11	AF012126	NM_003453
+HGNC:13029	ZMYM5	zinc finger MYM-type containing 5	Approved	ZNF237	ZNF198L1, MYM	13q12.11	AF161535	NM_014242
+HGNC:39749	ZNF646P1	zinc finger protein 646 pseudogene 1	Approved			13q14.3		NG_024858
+HGNC:39250	ZNF962P	zinc finger protein 962, pseudogene	Approved			13q11		NG_023215
+HGNC:42025	ZNF965P	zinc finger protein 965, pseudogene	Approved			13q11		

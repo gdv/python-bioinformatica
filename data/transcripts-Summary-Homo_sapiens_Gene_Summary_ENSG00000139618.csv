@@ -1,0 +1,8 @@
+"Name","Transcript ID","bp","Protein","Translation ID","Biotype","CCDS","UniProt","RefSeq","Flags"
+"BRCA2-001","ENST00000380152.7","11986","3418aa","ENSP00000369497"," Protein coding","CCDS9344","P51587","-","TSL:5GENCODE basicAPPRIS P1"
+"BRCA2-201","ENST00000544455.5","10984","3418aa","ENSP00000439902"," Protein coding","CCDS9344","P51587","NM_000059  NP_000050","TSL:1GENCODE basicAPPRIS P1"
+"BRCA2-002","ENST00000470094.1","842","186aa","ENSP00000434898"," Nonsense mediated decay","-","H0YE37","-","CDS 5' incompleteTSL:5"
+"BRCA2-005","ENST00000528762.1","495","64aa","ENSP00000433168"," Nonsense mediated decay","-","H0YD86","-","CDS 5' incompleteTSL:4"
+"BRCA2-004","ENST00000614259.1","7950","No protein","-"," Processed transcript","-","-","-","TSL:2"
+"BRCA2-003","ENST00000530893.6","2011","No protein","-"," Processed transcript","-","-","-","TSL:1"
+"BRCA2-006","ENST00000533776.1","523","No protein","-"," Retained intron","-","-","-","TSL:3"
