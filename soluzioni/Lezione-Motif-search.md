@@ -22,7 +22,7 @@ AGCATGCA
 ACTACGAC
 --------
 ACCAAGCA
-32212222 -> 24
+32212222 -> 16
 ```
 
 ###  Problema
