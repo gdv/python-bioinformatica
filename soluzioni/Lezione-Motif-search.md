@@ -28,4 +28,4 @@ ACCAAGCA
 ###  Problema
 
 Date *k* stringhe lunghe *n* e un numero *l*, trovare il motivo lungo *l* di massimo valore.
-Eseguire il programma sul file [Human_BRCA2_orthologues.fa](../data/Human_BRCA2_orthologues.fa) 
+Eseguire il programma sul file [Human_BRCA2_orthologues2.fa](../data/Human_BRCA2_orthologues2.fa) 
