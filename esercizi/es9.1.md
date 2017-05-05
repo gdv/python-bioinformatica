@@ -7,11 +7,10 @@ tutte le possibili stringhe di consenso.
 Per ogni stringa di consenso devo cercare il migliore punto di inizio
 all'interno di ogni stringa.
 
-Ad esempio, date le stringhe ```
-ACGACTACGTAC
+Ad esempio, date le stringhe 
+`ACGACTACGTAC
 ACGACGACGACT
 ACGGACTACGAC
-```
-
-e la possibile stringa di consenso ```GGAG```, ottengo i punti di inizio
+`
+e la possibile stringa di consenso `GGAG`, ottengo i punti di inizio
 (1, 1, 2).
