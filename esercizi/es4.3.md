@@ -1,6 +1,6 @@
 # Gestione regioni 
 
-Leggere il file GTF dei
+Leggere il file [GTF](http://mblab.wustl.edu/GTF22.html) dei
 [trascritti umani](ftp://http.ensembl.org/pub/release-87/gtf/homo_sapiens/Homo_sapiens.GRCh38.87.gtf.gz).
 Un estratto è [gtf.zip](../data/gtf.zip)
 
